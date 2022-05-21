@@ -1,0 +1,25 @@
+Q23442 Island		map		view		flag		location		arm
+Q55488 Train station		station
+Q618779 Award		ribbon		medal		year
+Q532 Village		coat of arm		view		church
+Q178561 Battle		map		troop
+Q6881511 Business enterprise		logo		headquarters		company
+Q4022 River		map		bridge
+Q11424 Film		poster
+Q215380 Band (rock and pop)		concert		logo
+Q8502 Mountain		view		map
+Q1248784 Airport		terminal
+Q34442 Road		marker
+Q5398426 Television series		season
+Q839954 Archaeological site		museum
+Q482994 Album		cover
+Q23397 Lake		map
+Q41710 Ethnic group		map		century
+Q16970 Church (building)		interior
+Q3957 Town		coat of arm		church		location
+Q41298 Magazine		cover
+Q5 Human		portrait
+Q3918 University		building		logo		seal
+Q515 City		flag		arm		view		hall
+Q7889 Video game		game
+Q33506 Museum		view

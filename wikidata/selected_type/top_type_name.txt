@@ -1,0 +1,25 @@
+Q5	Human	201243
+Q482994	Album	16489
+Q11424	Film	15064
+Q532	Village	11294
+Q4022	River	4684
+Q55488	Train station	4608
+Q215380	Band (rock and pop)	4543
+Q5398426	Television series	3984
+Q8502	Mountain	3211
+Q7889	Video game	2867
+Q34442	Road	2822
+Q16970	Church (building)	2618
+Q1248784	Airport	1569
+Q3957	Town	1497
+Q23397	Lake	1435
+Q23442	Island	1400
+Q3918	University	1315
+Q6881511	Business enterprise	1026
+Q178561	Battle	1022
+Q839954	Archaeological site	978
+Q33506	Museum	963
+Q41298	Magazine	941
+Q515	City	825
+Q41710	Ethnic group	813
+Q618779	Award	781

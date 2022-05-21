@@ -1,0 +1,3000 @@
+Q1077	Star Trek: The Original Series
+Q23572	Game of Thrones
+Q180228	Smallville
+Q183513	Buffy the Vampire Slayer
+Q1079	Breaking Bad
+Q2744	The X-Files
+Q11622	Firefly (TV series)
+Q108774	Star Trek: Deep Space Nine
+Q2085	Twin Peaks
+Q23567	Lost (TV series)
+Q147235	How I Met Your Mother
+Q3815	Fringe (TV series)
+Q23594	Homeland (TV series)
+Q8539	The Big Bang Theory
+Q79784	Friends
+Q187462	Stargate SG-1
+Q232737	The Walking Dead (TV series)
+Q4525	NCIS (TV series)
+Q32450	Pretty Little Liars
+Q192837	Sherlock (TV series)
+Q380519	Star Trek: Enterprise
+Q152178	Glee (TV series)
+Q156329	Star Trek: Voyager
+Q16290	Star Trek: The Next Generation
+Q438406	Grey's Anatomy
+Q23558	House (TV series)
+Q117396	CSI: Crime Scene Investigation
+Q130585	Supernatural (American TV series)
+Q11598	Arrested Development
+Q83401	Heroes (American TV series)
+Q193462	Gilmore Girls
+Q323722	Bates Motel (TV series)
+Q390120	Torchwood
+Q23577	Dexter (TV series)
+Q23628	The Sopranos
+Q558112	Black Mirror
+Q80044	Prison Break
+Q83071	Downton Abbey
+Q117590	Beverly Hills, 90210
+Q126631	Hannah Montana
+Q371207	Columbo
+Q564345	Person of Interest (TV series)
+Q585758	Boardwalk Empire
+Q598499	The Pacific (miniseries)
+Q53922	American Horror Story
+Q131758	Desperate Housewives
+Q186219	True Blood
+Q189068	Monk (TV series)
+Q212156	Angel (1999 TV series)
+Q537911	Agents of S.H.I.E.L.D.
+Q11572	Avatar: The Last Airbender
+Q23609	Weeds (TV series)
+Q23673	Once Upon a Time (TV series)
+Q184342	Wizards of Waverly Place
+Q247643	Elementary (TV series)
+Q494244	M*A*S*H (TV series)
+Q650822	Una Maid en Manhattan
+Q879674	Ich heirate eine Familie
+Q2748	Grimm (TV series)
+Q16756	Modern Family
+Q139849	The Suite Life on Deck
+Q155629	Sesame Street
+Q209878	Rome (TV series)
+Q484020	Mr. Bean
+Q485668	Scrubs (TV series)
+Q728443	Hawaii Five-0 (2010 TV series)
+Q823158	Weissensee (TV series)
+Q19570	The Good Wife
+Q28537	The Vampire Diaries
+Q56194	24 (TV series)
+Q168708	Dallas (1978 TV series)
+Q189350	30 Rock
+Q207803	Bones (TV series)
+Q208647	Married... with Children
+Q386880	Castle (TV series)
+Q888841	Hannibal (TV series)
+Q928429	Falling Skies
+Q4529	Veronica Mars
+Q23831	The Office (American TV series)
+Q48758	Psych
+Q130838	Today (American TV program)
+Q189411	CSI: Miami
+Q194427	The O.C.
+Q199853	Gossip Girl
+Q207375	ER (TV series)
+Q210146	Babylon 5
+Q212135	Will & Grace
+Q214107	DuckTales
+Q218035	Parks and Recreation
+Q250111	Borgen (TV series)
+Q308700	Shake It Up (American TV series)
+Q321423	Law & Order
+Q478360	The Wire
+Q565293	Anne Frank: The Whole Story
+Q617274	Charlie's Angels
+Q672175	Borgia (TV series)
+Q34659	My Name Is Earl
+Q204228	The Mentalist
+Q212731	Fawlty Towers
+Q215287	Stargate Atlantis
+Q352	Adolf Hitler
+Q7747	Vladimir Putin
+Q5593	Pablo Picasso
+Q855	Joseph Stalin
+Q76	Barack Obama
+Q937	Albert Einstein
+Q8016	Winston Churchill
+Q231690	B. R. Ambedkar
+Q22686	Donald Trump
+Q855252	Bhumibol Adulyadej
+Q2831	Michael Jackson
+Q1744	Madonna
+Q1394	Vladimir Lenin
+Q5577	Salvador Dalí
+Q9696	John F. Kennedy
+Q19848	Lady Gaga
+Q33866	Theodore Roosevelt
+Q535	Victor Hugo
+Q892	J. R. R. Tolkien
+Q7243	Leo Tolstoy
+Q5599	Peter Paul Rubens
+Q255	Ludwig van Beethoven
+Q1048	Julius Caesar
+Q7186	Marie Curie
+Q9960	Ronald Reagan
+Q23505	George H. W. Bush
+Q45909	John Cale
+Q567	Angela Merkel
+Q9021	Max Planck
+Q23559	Benito Mussolini
+Q43274	Charles, Prince of Wales
+Q91	Abraham Lincoln
+Q517	Napoleon
+Q1339	Johann Sebastian Bach
+Q7085	Niels Bohr
+Q17714	Stephen Hawking
+Q23	George Washington
+Q1035	Charles Darwin
+Q61064	Wassily Kandinsky
+Q1203	John Lennon
+Q5582	Vincent van Gogh
+Q25320	Paul Langevin
+Q41421	Michael Jordan
+Q1001	Mahatma Gandhi
+Q2042	Charles de Gaulle
+Q5912	Marcel Duchamp
+Q8007	Franklin D. Roosevelt
+Q6279	Joe Biden
+Q9439	Queen Victoria
+Q9682	Elizabeth II
+Q41513	William Blake
+Q83155	Jacques-Louis David
+Q9685	Diana, Princess of Wales
+Q989	Pope John Paul II
+Q9047	Gottfried Wilhelm Leibniz
+Q9061	Karl Marx
+Q9916	Dwight D. Eisenhower
+Q9215	Sigmund Freud
+Q11758	L. L. Zamenhof
+Q33760	Bertrand Russell
+Q41309	Franz Liszt
+Q43723	Benjamin Netanyahu
+Q117012	Yoko Ono
+Q1268	Frédéric Chopin
+Q7604	Leonhard Euler
+Q8442	Otto von Bismarck
+Q13909	Angelina Jolie
+Q34296	Woodrow Wilson
+Q57384	Wernher von Braun
+Q590227	Edward VIII
+Q280856	George VI
+Q9123	Ernest Rutherford
+Q20875	Edward VII
+Q23434	Ernest Hemingway
+Q30875	Oscar Wilde
+Q33391	Leon Trotsky
+Q186652	Gilbert du Motier, Marquis de Lafayette
+Q81082	Henri Poincaré
+Q392	Bob Dylan
+Q762	Leonardo da Vinci
+Q5879	Johann Wolfgang von Goethe
+Q6722	Carl Friedrich Gauss
+Q39803	Mario Vargas Llosa
+Q37693	Paul Gauguin
+Q39931	Pierre-Auguste Renoir
+Q43067	Heinrich Himmler
+Q154842	Max Ernst
+Q159409	Louise Bourgeois
+Q93284	Marc Chagall
+Q254	Wolfgang Amadeus Mozart
+Q1124	Bill Clinton
+Q5589	Henri Matisse
+Q23380	Jean-Auguste-Dominique Ingres
+Q36812	Prince William, Duke of Cambridge
+Q152316	Prince Harry, Duke of Sussex
+Q158861	Chulalongkorn
+Q529	Louis Pasteur
+Q5603	Andy Warhol
+Q8027	Martin Luther King Jr.
+Q46096	Felix Mendelssohn
+Q193093	Platonic Academy
+Q2812652	Katedralskolan, Lund
+Q16839583	Goldschmidt School
+Q1133630	Lawrence Berkeley National Laboratory
+Q128260	St Edward's School, Oxford
+Q847290	Shizutani School
+Q7396963	Sacramento City College
+Q7895546	University of Ilorin
+Q3152599	Agrocampus Ouest
+Q6858340	Mill Hill School
+Q15264682	Ōtūmoetai Intermediate
+Q6901065	Monmouth College
+Q7989116	Westminster Abbey Choir School
+Q16953056	Tansian University
+Q28407917	St. Ignatius College, Barcelona
+Q4966838	Bridgewater College
+Q7594671	St Marylebone School
+Q7744481	King's School, Worcester
+Q672022	Collège Calvin
+Q5102682	Chișinău Theological Seminary
+Q6792573	Maungawhau School
+Q7595513	St Teresa's School Effingham
+Q7309324	Regis College (Massachusetts)
+Q7384885	Ryde School with Upper Chine
+Q7384985	Rye St Antony School
+Q7368476	Rosemont College
+Q15979386	St Joseph's College, Mark Cross
+Q7723187	Outwood Academy City
+Q8021007	Williams Creek School (Gillespie County, Texas)
+Q5435478	Farm Cove Intermediate
+Q5644918	Hamilton East School
+Q5610609	Grossmont College
+Q475312	Lutheran University of Applied Sciences Nuremberg
+Q4861142	Barlborough Hall School
+Q7959192	Wadham School
+Q16255392	The Brakenhale School
+Q24189582	Collingwood Area School
+Q7591413	St Peter's Catholic School, Solihull
+Q16897463	Trinity Church of England School
+Q28407573	Mossbourne Victoria Park Academy
+Q5019095	Caldicott School
+Q7235085	Potomac State College of West Virginia University
+Q7679025	Talbot Heath School
+Q17067405	Somerville Intermediate School
+Q22080725	Wye School
+Q5246077	Dean Close School
+Q6398457	Keystone College
+Q15223337	Havelock North Intermediate
+Q5150789	Combermere House, Nantwich
+Q6682369	Los Angeles Valley College
+Q7589209	St Joseph's Catholic Academy
+Q1558160	Bulgarian Men's High School of Thessaloniki
+Q3555000	Phanar Greek Orthodox College
+Q7245400	Prior's Field School
+Q2280221	Shrewsbury School
+Q5150751	Radnor House Sevenoaks School
+Q6536131	Lewes Old Grammar School
+Q7761621	The Roundhill Academy
+Q7593192	St George's School, Edinburgh
+Q7733242	The Fallibroome Academy
+Q28913042	Iqra Academy
+Q7401073	Saint Camillus Academy
+Q7860053	Tyler Junior College
+Q7896323	University of South Carolina Union
+Q7587354	St. Brendan's Sixth Form College
+Q8001114	Wildern School
+Q17038824	Winterton Community Academy
+Q20127964	Winterstoke Hundred Academy
+Q1622125	Ludwigshafen University of Applied Sciences
+Q4915845	Bird College
+Q7374785	Royal Russell School
+Q7735285	The Friary School
+Q11021895	Roedean Moira House
+Q7981786	Wellsway School
+Q7768877	The Thomas Hardye School
+Q7158508	Pebble Brook School
+Q7722258	The Cheadle Academy
+Q8049368	Yarm School
+Q16736148	The Blandford School
+Q17199208	The John of Gaunt School
+Q322519	Deutsche Schule Helsinki
+Q1061900	Gakushūin
+Q1623380	Sint-Lucas School of Architecture
+Q5025540	Cambridge Steiner School
+Q5101360	Chinthurst School
+Q5240740	David W. Smouse Opportunity School
+Q5283630	Ditcham Park School
+Q1471801	Hugo Treffner Gymnasium
+Q7084431	Old Main (Pennsylvania State University)
+Q12878751	Kaplaneios School
+Q39058371	SGS Berkeley Green UTC
+Q5598352	Grays Harbor College
+Q7162922	Peninsula College
+Q7592982	St Dunstan's School, Glastonbury
+Q65552632	North La Junta School
+Q5056933	Dallas College Cedar Valley Campus
+Q5093943	Chestnut Hill Academy
+Q5757903	Highclare School
+Q7235323	Potterspury Lodge School
+Q5125374	Claires Court School
+Q513	Mount Everest
+Q16990	Mount Etna
+Q43512	K2
+Q7296	Mount Kilimanjaro
+Q583	Mont Blanc
+Q4777	Mount Roraima
+Q44211	Corrientes
+Q80344	Mount Olympus
+Q83497	Mount Rushmore
+Q40758	Mount Damavand
+Q181476	Cotopaxi
+Q207323	Vulcano
+Q15255	Dents du Midi
+Q43105	Mount Elbrus
+Q82613	Krakatoa
+Q1374	Matterhorn
+Q1484	Mayon
+Q39739	Aconcagua
+Q76309	Mount Pelée
+Q129296	Santorini
+Q194057	Mount Rainier
+Q617511	Sněžka
+Q1451	Mount Pinatubo
+Q62624	Aurès Mountains
+Q81213	Gerlachovský štít
+Q130018	Denali
+Q130321	Mount Athos
+Q131148	Stromboli
+Q672936	Rysy
+Q15312	Jungfrau
+Q38954	Teide
+Q104674	Ben Nevis
+Q107635	Paektu Mountain
+Q205976	Mount of Olives
+Q215471	Mount Hermon
+Q238147	Pico de Orizaba
+Q595780	Babia Góra
+Q770496	Mount Saint Elias
+Q925252	Half Dome
+Q15265	Pilatus (mountain)
+Q82019	Kangchenjunga
+Q85166	Cornettes de Bise
+Q120314	Mount Wutai
+Q178167	Mount Kosciuszko
+Q182913	Grímsvötn
+Q207917	Mount Nemrut
+Q216059	Mount Tai
+Q217142	Snowdon
+Q235539	Mount Whitney
+Q607372	Puy de Dôme
+Q666531	Naafkopf
+Q724367	Belukha Mountain
+Q791652	Avachinsky
+Q948850	Pic de Médécourbe
+Q1024	Triglav
+Q5059	Aoraki / Mount Cook
+Q72303	Mount Ararat
+Q140084	Hvannadalshnjúkur
+Q155721	Brocken
+Q207421	Tungurahua
+Q207680	Mount Kazbek
+Q210252	Klyuchevskaya Sopka
+Q211529	Khan Tengri
+Q235062	Galeras
+Q270158	Semeru
+Q278021	Arasbaran
+Q303806	Aavasaksa
+Q525281	Mount Saint Catherine (Grenada)
+Q594387	Mount Baker
+Q657937	Penyal d'Ifac Natural Park
+Q713847	Mount Kaimon
+Q714564	Mount Shari
+Q816556	Ben Lomond
+Q928681	Mount Pico
+Q3388	Grossglockner
+Q7093	Puig Neulós
+Q15224	Säntis
+Q26544	La Soufrière (volcano)
+Q60967	Mount Kinabalu
+Q130736	Nanga Parbat
+Q151445	Bass Rock
+Q167951	Mount Zaō
+Q188982	Mount Erebus
+Q189915	Dinaric Alps
+Q190562	Mount Cameroon
+Q203568	Mount Aragats
+Q210722	Sugarloaf Mountain
+Q213360	Table Mountain
+Q215138	Fitz Roy
+Q217457	Shkhara
+Q233836	Ojos del Salado
+Q387148	Ślęża
+Q494645	Hallasan
+Q522586	Mount Olympus (Washington)
+Q603956	Ben Lawers
+Q665130	Mont Dolent
+Q665321	Pikes Peak
+Q695221	Mount Abu
+Q703922	Drachenfels (Siebengebirge)
+Q714555	Mount Rausu
+Q40855	Dnieper
+Q1653	Danube
+Q134750	St. Lawrence River
+Q14369	Inn (river)
+Q1667	Moselle
+Q191238	Donets
+Q552	Oder
+Q3392	Nile
+Q7355	Yellow River
+Q8197	Daugava
+Q131210	Dniester
+Q1229	Don (river)
+Q1469	Loire
+Q14305	Guadiana
+Q131574	Vltava
+Q155841	Lech (river)
+Q156237	Bug (river)
+Q202796	Desna (river)
+Q1497	Mississippi River
+Q1644	Elbe
+Q7348	Indus River
+Q127892	Paraná River
+Q179251	Morava (river)
+Q524612	Paatsjoki
+Q626	Volga
+Q548	Vistula
+Q1684	Spree
+Q3783	Amazon River
+Q5413	Yangtze
+Q60974	Ottawa River
+Q103148	Lahn
+Q216488	San (river)
+Q318762	Our (river)
+Q1675	Aare
+Q14294	Tagus
+Q79082	Kama (river)
+Q118251	Madeira River
+Q134350	Tisza
+Q142148	São Francisco River
+Q157042	Pripyat (river)
+Q179751	Aras (river)
+Q182343	Niagara River
+Q182445	Prut
+Q183078	Murray River
+Q216875	Chenab River
+Q779607	Kiso River
+Q1670	Main (river)
+Q1673	Neckar
+Q2251	Columbia River
+Q5622	Neman
+Q14299	Douro
+Q40059	Jordan River
+Q60055	Narew
+Q121538	Torne (river)
+Q152331	Rur
+Q192495	Vyatka (river)
+Q701512	Oker
+Q734455	Shinano River
+Q738986	Seym (river)
+Q643	Po (river)
+Q645	Neva
+Q3542	Niger River
+Q5089	Ganges
+Q5602	Lusatian Neisse
+Q8493	Amu Darya
+Q13696	Adige
+Q15243	Volkhov (river)
+Q44729	White Elster
+Q45403	Brahmaputra River
+Q70970	Çoruh
+Q78707	Yenisey
+Q80240	Ural (river)
+Q152661	Salzach
+Q156557	Kura (river)
+Q158847	Sauer
+Q162741	Teteriv
+Q172089	Oka (river)
+Q181475	Orange River
+Q192567	Ili (river)
+Q204040	Mur (river)
+Q214535	Glomma
+Q214874	Jhelum River
+Q216950	Abakan (river)
+Q224686	Bolshoy Cheremshan
+Q430480	Jakobselva (Sør-Varanger)
+Q445057	Oder (Harz)
+Q784682	Sozh
+Q875547	Svislach (Berezina)
+Q1265	Colorado River
+Q3140	Hudson River
+Q3339	Bille (Elbe)
+Q8542	Panj (river)
+Q14309	Guadalquivir
+Q14366	Ticino (river)
+Q14383	Sava
+Q18612	Segura
+Q19686	River Thames
+Q30548	Hrazdan (river)
+Q34589	Euphrates
+Q82776	Terek (river)
+Q40477	Slavs
+Q7325	Jews
+Q42884	Germans
+Q49540	Latvians
+Q244735	Altai people
+Q483569	Belarusians
+Q140420	Rusyns
+Q190168	Yoruba people
+Q875556	Israelis
+Q8060	Romani people
+Q171336	Slovaks
+Q186192	Lithuanians
+Q68518	Iroquois
+Q1026	Poles
+Q165192	Swedes
+Q179248	Albanians
+Q242485	Flemish people
+Q41975	Mongols
+Q84072	Turkish people
+Q484479	Kyrgyz people
+Q15863	Slovenes
+Q34069	Ashkenazi Jews
+Q49209	Javanese people
+Q49542	Russians
+Q35565	Tatars
+Q60046	Nivkh people
+Q79797	Armenians
+Q170217	Czechs
+Q170826	Irish people
+Q178054	Alans
+Q483505	Tajiks
+Q12542	Aztecs
+Q12223	Kurds
+Q46118	Uyghurs
+Q108266	Navajo
+Q166176	Nenets people
+Q171795	Abkhazians
+Q690126	Livonians
+Q857880	French Canadians
+Q17161	Etruscan civilization
+Q48199	Sámi people
+Q49078	White Americans
+Q58843	Tuareg people
+Q101828	Ainu people
+Q102251	Sephardi Jews
+Q141817	German Americans
+Q170284	Finns
+Q213040	Abazins
+Q213470	Karelians
+Q253410	Chuvash people
+Q483047	Uzbeks
+Q501837	Mizrahi Jews
+Q539051	Greeks
+Q836660	Votians
+Q15763	Circassians
+Q35323	Arabs
+Q44806	Ukrainians
+Q45914	Maya peoples
+Q80040	Kazakhs
+Q127885	Serbs
+Q146521	Sorbs
+Q162858	Sarmatians
+Q173491	Tamils
+Q184922	Udmurt people
+Q202575	Fula people
+Q214361	Mari people
+Q415693	Akan people
+Q467790	Mansi people
+Q536116	Odawa
+Q720982	Crimean Karaites
+Q37014	Yupik peoples
+Q58669	Hispanic and Latino Americans
+Q142897	Zazas
+Q171927	Pygmy peoples
+Q172365	San people
+Q172717	Avars (Caucasus)
+Q191710	Aleut
+Q191730	Evenks
+Q208551	Laz people
+Q216151	Vietnamese people
+Q219252	Khoekhoe
+Q244504	Catalans
+Q273854	Gauls
+Q318674	Oromo people
+Q322951	Cheyenne
+Q640605	Yamato people
+Q643103	Asmat people
+Q702193	Russia Germans
+Q756716	Moravians
+Q852431	Puebloans
+Q855178	Csángós
+Q863927	Garifuna
+Q10090	Hindus
+Q33938	Hausa people
+Q43103	European Americans
+Q105405	Cherokee
+Q131242	Eskimo
+Q147239	Kashubians
+Q161652	Japanese people
+Q167420	Croats
+Q21159	Husum
+Q6157	Seinäjoki
+Q202158	Hämeenlinna
+Q961325	Holešov
+Q16515	Dobříš
+Q192155	Kotka
+Q207891	Kokkola
+Q581478	Břeclav
+Q13496	Brindisi
+Q171219	Dornbirn
+Q470394	Benešov
+Q490025	Ratzeburg
+Q489911	Breisach
+Q14805	Kaufbeuren
+Q204382	Kouvola
+Q321074	Piešťany
+Q501661	Schleswig, Schleswig-Holstein
+Q986068	Domažlice
+Q503285	Walldürn
+Q520119	Gernsbach
+Q622592	Raahe
+Q748513	Loviisa
+Q986102	Třinec
+Q994280	Bruntál
+Q14815	Weißenfels
+Q37013	Rauma, Finland
+Q210987	Salo, Finland
+Q214777	Lohja
+Q216790	Hanko, Finland
+Q413747	Akaa
+Q490457	Rendsburg
+Q490670	Bad Ems
+Q490665	Arnstadt
+Q503862	Naantali
+Q986072	Rokycany
+Q34021	Bastogne
+Q48329	Mariehamn
+Q187826	Móstoles
+Q193180	Kajaani
+Q210796	Komárno
+Q267888	Rožňava
+Q473914	Ibiza (town)
+Q748533	Iisalmi
+Q986075	Nové Město na Moravě
+Q8621	Terni
+Q27007	Bardejov
+Q171080	Kotor
+Q259617	Wasserburg am Inn
+Q535674	Weilheim in Oberbayern
+Q7030	Wismar
+Q27541	Ružomberok
+Q50960	Demmin
+Q53907	Vlotho
+Q178488	Cephalonia
+Q208110	Banská Štiavnica
+Q230843	Zushi, Kanagawa
+Q251689	Groß-Gerau
+Q486991	Aschersleben
+Q518663	Schongau, Bavaria
+Q649076	Skalica
+Q664599	Nykarleby
+Q829812	Rimavská Sobota
+Q1468	Eschwege
+Q1382	Piran
+Q3822	Lünen
+Q6009	Kauhava
+Q13135	Macerata
+Q16147	Güstrow
+Q179385	Greenwich
+Q202565	Coutances
+Q207295	Uusikaupunki
+Q214021	Tornio
+Q276362	Nové Zámky
+Q497697	Durbuy
+Q504348	Hildburghausen
+Q516462	Bad Wildungen
+Q622565	Usingen
+Q683525	Varkaus
+Q735563	Kaarina
+Q754788	Snina
+Q915420	Loimaa
+Q6023	Lapua
+Q12055	Eilenburg
+Q12886	Anderlecht
+Q14920	Neu-Isenburg
+Q14938	Bernburg
+Q37792	Sint-Truiden
+Q158088	Kavadarci
+Q184163	Colchester
+Q207999	Kuusamo
+Q207753	Hyvinkää
+Q272040	Liptovský Mikuláš
+Q322126	Valkeakoski
+Q328087	Dronten
+Q502755	Bad Wildbad
+Q515527	Engen, Germany
+Q516474	Groß-Umstadt
+Q517381	Dillenburg
+Q558516	Geisenheim
+Q573599	Weilburg
+Q223	Greenland
+Q760	Saint Lucia
+Q16635	Guam
+Q13353	Montserrat
+Q5813	Canary Islands
+Q3757	Java
+Q25396	Bonaire
+Q25362	Saint Barthélemy
+Q22890	Ireland
+Q25528	Saba
+Q168159	Anglesey
+Q22502	Taiwan (island)
+Q9679	Isle of Wight
+Q18432	Staten Island
+Q31063	Christmas Island
+Q9966	Texel
+Q14452	Easter Island
+Q34497	Saint Helena
+Q43048	Rhodes
+Q121378	Corfu
+Q204412	Terschelling
+Q207851	Vlieland
+Q8828	Mallorca
+Q26180	Sint Eustatius
+Q34374	Crete
+Q3812	Sulawesi
+Q25359	Navassa Island
+Q52636	Menorca
+Q144880	Zakynthos
+Q178488	Cephalonia
+Q600614	Okinawa Island
+Q62218	Jarvis Island
+Q131354	Alcatraz Island
+Q208011	Schiermonnikoog
+Q875301	Itsukushima
+Q25125	Baltrum
+Q25596	Saint Martin (island)
+Q202175	Ellis Island
+Q244347	Gorée
+Q13987	Kyushu
+Q23666	Great Britain
+Q42000	Tahiti
+Q52631	Ibiza
+Q128087	Lesbos
+Q179313	Alderney
+Q187027	Kos
+Q190210	Mykonos
+Q933459	Goeree-Overflakkee
+Q14056	Jan Mayen
+Q18438	Long Island
+Q25277	Hispaniola
+Q173148	Delos
+Q173292	Capri
+Q187471	Ithaca
+Q190138	Lefkada
+Q207323	Vulcano
+Q215727	Iturup
+Q285468	Hashima Island
+Q642481	Saint Croix
+Q3237	Rügen
+Q3492	Sumatra
+Q46197	Ascension Island
+Q48335	Newfoundland (island)
+Q82613	Krakatoa
+Q131305	Howland Island
+Q175741	Andros
+Q188527	Naxos
+Q192483	Lemnos
+Q201272	Paros
+Q292384	Île de Ré
+Q926674	Anuchina
+Q922	Brač
+Q3255	Usedom
+Q7792	Sakhalin
+Q13989	Honshu
+Q52051	Tsushima Island
+Q118863	North Island
+Q161258	Clipperton Island
+Q170488	Gozo
+Q193089	Europa Island
+Q204989	Saint Kitts
+Q211285	Tinos
+Q263567	Rose Island (Lake Starnberg)
+Q463937	Saint Thomas, U.S. Virgin Islands
+Q724394	Poros
+Q769680	Bornholm
+Q815838	Belle Île
+Q847285	Kunashir Island
+Q13277	Rab
+Q13991	Shikoku
+Q46650	Macquarie Island
+Q49149	Nantucket
+Q59771	New Britain
+Q92089	Fort Boyard (fortification)
+Q124873	Mindanao
+Q125384	Luzon
+Q129296	Santorini
+Q131347	Oahu
+Q134905	Fraser Island
+Q156882	Samos
+Q632482	Kentucky Colonel
+Q931502	Order of Isabella the Catholic
+Q262478	Salon (Paris)
+Q652962	Ordre national du Mérite
+Q41675	Guinness World Records
+Q14420	Order of the British Empire
+Q211872	Stanley Cup
+Q613627	Jubilee Medal "Thirty Years of Victory in the Great Patriotic War 1941–1945"
+Q678413	Deutscher Fernsehpreis
+Q724443	Legion of Merit
+Q47024	People's Artist of the RSFSR
+Q280693	Jubilee Medal "Forty Years of Victory in the Great Patriotic War 1941–1945"
+Q580995	Apotheosis
+Q932650	Padma Bhushan
+Q974780	Erasmus Prize
+Q51067	Lenin Prize
+Q94044	Decoration of Honour for Services to the Republic of Austria
+Q278798	Medal "For the Victory over Germany in the Great Patriotic War 1941–1945"
+Q326220	Montreal World Film Festival
+Q472379	Grimme-Preis
+Q501876	Mercury Prize
+Q833163	Knight Bachelor
+Q907087	Laurel Prize
+Q175399	Points classification in the Tour de France
+Q308907	Lenin Peace Prize
+Q551250	Lemelson–MIT Prize
+Q586458	FIBA Hall of Fame
+Q616871	Ramón de Carranza Trophy
+Q634353	Olympic Order
+Q640360	Royal Military and Hospitaller Order of Our Lady of Mount Carmel and Saint Lazarus of Jerusalem united
+Q654649	Oswald Veblen Prize in Geometry
+Q672392	Padma Vibhushan
+Q678979	Max Born Medal and Prize
+Q817363	Benjamin Franklin Medal (Royal Society of Arts)
+Q842473	Blue Ribbon Award (railway)
+Q869896	Croix de Guerre
+Q17144	Presidential Medal of Freedom
+Q81180	Grammy Hall of Fame
+Q288142	European Diploma of Protected Areas
+Q337789	Einstein Prize (APS)
+Q368974	FIFA World Cup awards
+Q403569	People's Artist of the USSR
+Q463281	American Academy of Arts and Letters
+Q572572	Jubilee Medal "50 Years of the Armed Forces of the USSR"
+Q573079	Oscar Mathisen Award
+Q637399	Kossuth Prize
+Q657438	Roman triumph
+Q663005	Nansen Refugee Award
+Q742943	United States Astronaut Hall of Fame
+Q752000	Chess Oscar
+Q782788	Australian of the Year
+Q786357	Premios Ondas
+Q812306	Bayerische Verfassungsmedaille
+Q861660	Songwriters Hall of Fame
+Q901579	Irving Langmuir Award
+Q908793	Concours général
+Q946626	Jubilee Medal "30 Years of the Soviet Army and Navy"
+Q120560	Minor basilica
+Q195981	MLS Comeback Player of the Year Award
+Q209896	Honorary degree
+Q265920	Friedenspreis des Deutschen Buchhandels
+Q277787	Jerusalem Prize
+Q311830	Footballer of the Year (Germany)
+Q367040	Brahms-Preis
+Q372160	Montyon Prize
+Q386826	Gabor Medal
+Q424160	Akutagawa Prize
+Q452283	Nestlé Smarties Book Prize
+Q494273	Honorary citizenship of the United States
+Q541985	Holmenkollen Medal
+Q611475	Mishima Yukio Prize
+Q615585	Fernand Holweck Medal and Prize
+Q644357	NBA Rookie of the Year Award
+Q777181	Ramon Magsaysay Award
+Q787908	Automotive Hall of Fame
+Q794775	Premier League Golden Boot
+Q839410	Silver Bauhinia Star
+Q844517	NBA Sixth Man of the Year Award
+Q845884	NBA Defensive Player of the Year Award
+Q880233	Black Filmmakers Hall of Fame
+Q891037	Panofsky Prize
+Q899402	Sylvester Medal
+Q952003	Order of Blue Sky and White Sun
+Q128971	Impact Hall of Fame
+Q194744	Navy Unit Commendation
+Q203211	Leonardo da Vinci programme
+Q211672	Gold Medal of the Generalitat of Catalonia
+Q255205	Florence Nightingale Medal
+Q259724	South American Footballer of the Year
+Q285568	Andre Norton Award
+Q322746	David Octavius Hill Medal
+Q373374	Wrestling Observer Newsletter Hall of Fame
+Q387787	African Footballer of the Year
+Q388826	Aftenposten Gold Medal
+Q388970	NBA Executive of the Year Award
+Q449353	National Prize of the German Democratic Republic
+Q469520	German Design Award
+Q474485	List of Marshals of France
+Q570091	Festival International du Film Francophone de Namur
+Q577907	Staatsschauspieler
+Q237	Vatican City
+Q8646	Hong Kong
+Q2807	Madrid
+Q1492	Barcelona
+Q60	New York City
+Q62	San Francisco
+Q48320	Kobe
+Q84	London
+Q956	Beijing
+Q1726	Munich
+Q1731	Dresden
+Q3992	Liège
+Q35765	Osaka
+Q34600	Kyoto
+Q727	Amsterdam
+Q1794	Frankfurt
+Q2044	Florence
+Q2634	Naples
+Q239	City of Brussels
+Q1218	Jerusalem
+Q1353	Delhi
+Q2090	Nuremberg
+Q8686	Shanghai
+Q11751	Nagoya
+Q490	Milan
+Q1757	Helsinki
+Q2773	Braunschweig
+Q2861	Rostock
+Q8684	Seoul
+Q1449	Genoa
+Q1799	Wrocław
+Q8717	Seville
+Q34664	Hiroshima
+Q37951	Sapporo
+Q174691	Shizuoka (city)
+Q270	Warsaw
+Q586	Bonn
+Q1524	Athens
+Q43453	Plzeň
+Q46747	Sendai
+Q46940	Alcalá de Henares
+Q495	Turin
+Q1486	Buenos Aires
+Q1715	Hanover
+Q641	Venice
+Q1729	Erfurt
+Q26600	Fukuoka
+Q38234	Nagasaki
+Q38380	Angers
+Q45797	Dunkirk
+Q1489	Mexico City
+Q2096	Edmonton
+Q15674	Kagoshima
+Q47048	Oulu
+Q169134	Nara (city)
+Q170616	Chiba (city)
+Q200578	Yokosuka
+Q204249	Mito, Ibaraki
+Q65	Los Angeles
+Q172	Toronto
+Q174	São Paulo
+Q3012	Ulm
+Q1867	Taipei
+Q2079	Leipzig
+Q181557	Kaohsiung
+Q193428	Sakai
+Q209801	Himeji
+Q1733	Magdeburg
+Q1891	Bologna
+Q2028	Verona
+Q3630	Jakarta
+Q4093	Glasgow
+Q6221	Brescia
+Q8810	Granada
+Q10282	Pamplona
+Q17151	Thessaloniki
+Q191130	Kanazawa
+Q199889	Kumamoto
+Q3711	Belgrade
+Q9920	Haarlem
+Q12258	Sabadell
+Q24879	Bremen
+Q179691	Niigata (city)
+Q188806	Kitakyushu
+Q585	Oslo
+Q1735	Innsbruck
+Q1780	Bratislava
+Q16666	Nanjing
+Q82185	La Rochelle
+Q207309	Tokushima (city)
+Q208863	Hachiōji
+Q216	Vilnius
+Q1709	Schwerin
+Q2656	Palermo
+Q4024	Frankfurt (Oder)
+Q6397	Avignon
+Q11725	Chongqing
+Q81137	Olomouc
+Q105060	Sosnowiec
+Q181966	Naha
+Q558808	Hungarian Rhapsody: Queen Live in Budapest
+Q208902	19 (Adele album)
+Q664873	LOL (Basshunter album)
+Q731908	Pop (U2 album)
+Q939505	Disintegration (The Cure album)
+Q151827	Celebration Day (film)
+Q199585	Let It Be (Beatles album)
+Q853423	Seventeen Seconds
+Q150901	The Dark Side of the Moon
+Q904080	Pornography (album)
+Q19855	Minutes to Midnight (Linkin Park album)
+Q151114	The Wall
+Q173643	Abbey Road
+Q206097	Yellow Submarine (album)
+Q212326	MTV Unplugged in New York
+Q259667	The Velvet Underground & Nico
+Q308801	Achtung Baby
+Q333266	Imagine (John Lennon album)
+Q478327	Rattle and Hum
+Q654204	All Things Must Pass
+Q131182	The Fame
+Q152873	The Joshua Tree
+Q185121	Revolver (Beatles album)
+Q193477	A Night at the Opera (Queen album)
+Q201816	Help!
+Q209646	Iron Maiden (album)
+Q217248	Exile on Main St.
+Q527554	Brand New Day (Sting album)
+Q745850	Sticky Fingers
+Q849233	Beauty and the Beast (1991 soundtrack)
+Q155169	21 (Adele album)
+Q181826	Please Please Me
+Q190640	Rubber Soul
+Q201940	Led Zeppelin IV
+Q210122	Atom Heart Mother
+Q372055	Tommy (The Who album)
+Q44320	Thriller (album)
+Q155358	Music (Madonna album)
+Q206271	Ummagumma
+Q207970	A Rush of Blood to the Head
+Q212863	Pet Sounds
+Q220336	Zooropa
+Q223181	Queen II
+Q270083	Jazz (Queen album)
+Q309021	News of the World (album)
+Q679632	Mylo Xyloto
+Q791231	Bass Generation
+Q880433	III (Haloo Helsinki! album)
+Q17444	Nevermind
+Q19862	Hybrid Theory
+Q151714	American Idiot
+Q155335	Ray of Light
+Q182389	With the Beatles
+Q182518	A Hard Day's Night (album)
+Q205458	Meddle
+Q213516	Metallica (album)
+Q220744	Pearl (Janis Joplin album)
+Q269674	October (U2 album)
+Q296586	All That You Can't Leave Behind
+Q383486	Relics (album)
+Q513151	Justified (album)
+Q536336	The Unforgettable Fire
+Q655502	Bridge over Troubled Water
+Q753593	The Fat of the Land
+Q19076	Thick as a Brick
+Q37148	Born to Die
+Q155593	Made in Heaven
+Q164646	Born This Way (album)
+Q186188	Teenage Dream (Katy Perry album)
+Q190911	...Baby One More Time (album)
+Q202714	The Piper at the Gates of Dawn
+Q202996	OK Computer
+Q207336	Beatles for Sale
+Q207662	Boy (album)
+Q208227	The Final Cut (album)
+Q210809	Physical Graffiti
+Q210910	Origin of Symmetry
+Q211292	Dookie
+Q211742	Machine Head (album)
+Q217023	Bullet in a Bible
+Q238235	4 (Beyoncé album)
+Q284798	Abraxas (album)
+Q286716	Oro: Grandes Éxitos
+Q300373	A Collection of Beatles Oldies
+Q370769	How to Dismantle an Atomic Bomb
+Q383459	The Slim Shady LP
+Q558969	Aladdin Sane
+Q628963	Once (Nightwish album)
+Q698493	Around the Sun
+Q735771	Foo Fighters (album)
+Q745841	Queen on Fire – Live at the Bowl
+Q836687	101 (album)
+Q840130	Smash (The Offspring album)
+Q846543	Francis Albert Sinatra & Antônio Carlos Jobim
+Q944880	Unplugged (Alice in Chains album)
+Q13172	Living Things (Linkin Park album)
+Q44376	Invincible (Michael Jackson album)
+Q131392	Led Zeppelin (album)
+Q131977	Parachutes (Coldplay album)
+Q133933	Peter Gabriel (1980 album)
+Q49740	Minecraft
+Q83265	Grand Theft Auto: San Andreas
+Q189784	Doom (1993 video game)
+Q279446	Portal 2
+Q94501	Grand Theft Auto (video game)
+Q274897	Portal (video game)
+Q94797	Grand Theft Auto IV
+Q728061	Duke Nukem 3D
+Q755186	Doom II
+Q214232	Final Fantasy VII
+Q223341	League of Legends
+Q323862	The Elder Scrolls V: Skyrim
+Q149106	Grand Theft Auto III
+Q969764	Sonic Generations
+Q275960	Mass Effect (video game)
+Q349375	Fortnite
+Q386632	Warzone 2100
+Q761815	Chrono Trigger
+Q822849	Bully (video game)
+Q26097	XCOM: Enemy Unknown
+Q94671	Grand Theft Auto: Vice City
+Q221164	Fallout 3
+Q382108	Team Fortress 2
+Q804859	Baldur's Gate II: Shadows of Amn
+Q37123	Sonic the Hedgehog (1991 video game)
+Q94778	Grand Theft Auto: Liberty City Stories
+Q129277	Hitman: Absolution
+Q718448	The Elder Scrolls III: Morrowind
+Q753511	Mass Effect 3
+Q971909	SuperTuxKart
+Q49607	The Elder Scrolls IV: Oblivion
+Q185482	The Sims 3
+Q193581	Half-Life 2
+Q842146	Counter-Strike: Global Offensive
+Q939588	The Walking Dead (video game)
+Q40166	Assassin's Creed III
+Q275950	Resident Evil 4
+Q390595	Final Fantasy XIII
+Q513867	Doom (2016 video game)
+Q717600	Metal Gear Solid V: The Phantom Pain
+Q939806	Resident Evil 6
+Q472909	Left 4 Dead 2
+Q474573	Final Fantasy IX
+Q853344	Manhunt (video game)
+Q893422	Borderlands 2
+Q2374	Civilization III
+Q35627	Sonic the Hedgehog 2
+Q165929	StarCraft (video game)
+Q317620	Tomb Raider (1996 video game)
+Q379169	Carmageddon
+Q522508	Super Paper Mario
+Q725057	Mass Effect 2
+Q746228	Batman: Arkham Asylum
+Q771541	Dota 2
+Q816451	Tomb Raider II
+Q900305	Final Fantasy V
+Q2385	Civilization V
+Q2377	Civilization IV
+Q94460	Grand Theft Auto 2
+Q257469	Another World (video game)
+Q535940	Final Fantasy VI
+Q538821	Crysis 3
+Q644793	Deus Ex (video game)
+Q907226	Metal Gear Solid 2: Sons of Liberty
+Q17146	Uncharted 2: Among Thieves
+Q54865	Star Wars: Battlefront II (2005 video game)
+Q55214	Lego Star Wars: The Complete Saga
+Q110607	Clannad (video game)
+Q203310	Doom 3
+Q225912	Kingdom Hearts (video game)
+Q237484	Crysis (video game)
+Q245006	Final Fantasy VIII
+Q343033	ActRaiser
+Q486233	Call of Duty: Modern Warfare 3
+Q569898	Metro: Last Light
+Q692989	Roblox
+Q715292	Prince of Persia: The Sands of Time
+Q753749	Fallout: New Vegas
+Q856562	Sonic the Hedgehog 3
+Q18940	Wolfenstein 3D
+Q74669	Star Wars Knights of the Old Republic II: The Sith Lords
+Q207797	Call of Duty: World at War
+Q279744	Half-Life (video game)
+Q290534	Quake 4
+Q323264	Dishonored
+Q471803	Rome: Total War
+Q486351	Call of Duty: Modern Warfare 2
+Q619427	Injustice: Gods Among Us
+Q642107	Deus Ex: Human Revolution
+Q725902	Star Wars: Knights of the Old Republic (video game)
+Q748317	Return to Castle Wolfenstein
+Q840167	Star Wars: The Force Unleashed
+Q4104	Need for Speed: Shift
+Q11168	Super Mario Bros.
+Q12395	The Legend of Zelda (video game)
+Q17138	Uncharted 3: Drake's Deception
+Q40627	Sly Cooper and the Thievius Raccoonus
+Q74401	Indiana Jones and the Fate of Atlantis
+Q207986	Call of Duty: Black Ops
+Q213217	Mafia (video game)
+Q205028	Iron Man 2
+Q163872	The Dark Knight (film)
+Q44578	Titanic (1997 film)
+Q209538	Iron Man 3
+Q246283	Frozen (2013 film)
+Q103474	2001: A Space Odyssey (film)
+Q131074	The Lord of the Rings: The Return of the King
+Q217020	Thor (film)
+Q719915	The Hobbit: The Desolation of Smaug
+Q127367	The Lord of the Rings: The Fellowship of the Ring
+Q151904	Casino Royale (2006 film)
+Q182218	The Avengers (2012 film)
+Q275120	Captain America: The First Avenger
+Q466611	The Incredible Hulk (film)
+Q919649	The Hobbit: The Battle of the Five Armies
+Q102438	Harry Potter and the Philosopher's Stone (film)
+Q80379	The Hobbit: An Unexpected Journey
+Q171711	Star Trek Into Darkness
+Q189330	The Dark Knight Rises
+Q4941	Skyfall
+Q622769	Man of Steel (film)
+Q164963	The Lord of the Rings: The Two Towers
+Q166262	Batman Begins
+Q25188	Inception
+Q128518	Gladiator (2000 film)
+Q170564	Terminator 2: Judgment Day
+Q193695	The Wizard of Oz (1939 film)
+Q213081	Star Trek (film)
+Q223596	X-Men: First Class
+Q106182	X-Men (film)
+Q28234	Les Misérables (2012 film)
+Q116852	Batman (1989 film)
+Q102235	Harry Potter and the Order of the Phoenix (film)
+Q192686	Prometheus (2012 film)
+Q63026	The English Patient (film)
+Q83495	The Matrix
+Q150804	The Pianist (2002 film)
+Q104814	Aliens (film)
+Q167726	Jurassic Park (film)
+Q313764	The Tin Drum (film)
+Q102244	Harry Potter and the Chamber of Secrets (film)
+Q181795	The Empire Strikes Back
+Q232009	Harry Potter and the Deathly Hallows – Part 2
+Q471716	Barry Lyndon
+Q28196	World War Z (film)
+Q17738	Star Wars (film)
+Q102225	Harry Potter and the Goblet of Fire (film)
+Q134773	Forrest Gump
+Q161087	Pirates of the Caribbean: Dead Man's Chest
+Q207659	Space Jam
+Q309246	The Motorcycle Diaries (film)
+Q483941	Schindler's List
+Q484048	Amélie
+Q681962	Tinker Tailor Soldier Spy (film)
+Q2875	Gone with the Wind (film)
+Q11621	E.T. the Extra-Terrestrial
+Q42051	Star Wars: Episode III – Revenge of the Sith
+Q47703	The Godfather
+Q107270	Lost in Translation (film)
+Q181069	Star Wars: Episode II – Attack of the Clones
+Q184843	Blade Runner
+Q189505	Jaws (film)
+Q193573	Moulin Rouge!
+Q327713	Men in Black 3
+Q46717	Pirates of the Caribbean: The Curse of the Black Pearl
+Q105624	The Bourne Identity (2002 film)
+Q220741	City of God (2002 film)
+Q574583	The Hunger Games: Catching Fire
+Q28936	Cloud Atlas (film)
+Q47075	Scarface (1983 film)
+Q103569	Alien (film)
+Q152857	Downfall (2004 film)
+Q152456	Munich (2005 film)
+Q160618	Brokeback Mountain
+Q160060	The King's Speech
+Q161678	Harry Potter and the Deathly Hallows – Part 1
+Q174284	Raiders of the Lost Ark
+Q180214	Black Swan (film)
+Q181540	Quantum of Solace
+Q181803	Return of the Jedi
+Q190145	Spider-Man 2
+Q228186	Lawrence of Arabia (film)
+Q337078	The Big Lebowski
+Q474093	The Girl with the Dragon Tattoo (2011 film)
+Q19355	Life Is Beautiful
+Q45839	Memoirs of a Geisha (film)
+Q105598	Die Hard
+Q106428	Apollo 13 (film)
+Q107226	The Bourne Ultimatum (film)
+Q161687	Harry Potter and the Half-Blood Prince (film)
+Q172241	The Shawshank Redemption
+Q189054	Batman Returns
+Q229808	The Amazing Spider-Man (film)
+Q273978	Crouching Tiger, Hidden Dragon
+Q643263	Sense and Sensibility (film)
+Q102754	Dr. No (film)
+Q105387	Independence Day (1996 film)
+Q106440	Goldfinger (film)
+Q104123	Pulp Fiction
+Q133654	The Silence of the Lambs (film)
+Q312	Apple Inc.
+Q66	Boeing
+Q3884	Amazon (company)
+Q154950	Royal Dutch Shell
+Q9401	BASF
+Q478214	Tesla, Inc.
+Q2311	Airbus Group
+Q27530	Daimler AG
+Q8093	Nintendo
+Q26678	BMW
+Q6686	Renault
+Q780442	Uber
+Q219508	Citigroup
+Q499071	East Japan Railway Company
+Q38076	McDonald's
+Q152051	Bayer
+Q487907	Bank of America
+Q54173	General Electric
+Q80978	Hewlett-Packard
+Q122141	Vodafone
+Q156238	ExxonMobil
+Q333718	Johnson & Johnson
+Q334800	PepsiCo
+Q248	Intel
+Q483551	Walmart
+Q128896	Advanced Micro Devices
+Q170416	Philips
+Q173395	Cisco Systems
+Q329953	Northrop Grumman
+Q30873	Dell
+Q41187	Sony
+Q192314	JPMorgan Chase
+Q275623	PSA Group
+Q486269	Kodak
+Q11463	Adobe Inc.
+Q20718	Samsung Electronics
+Q35476	AT&T
+Q53247	Panasonic
+Q58024	EBay
+Q552581	SAP
+Q731938	AstraZeneca
+Q744149	Wells Fargo
+Q35953	MAN SE
+Q138133	RWE
+Q206921	Pfizer
+Q329426	Danone
+Q487494	Tesco
+Q483915	Nike, Inc.
+Q933787	Škoda Transportation
+Q67	Airbus
+Q27585	AOL
+Q27893	ArcelorMittal
+Q160120	Huawei
+Q182477	Nvidia
+Q593786	BT Group
+Q679322	Saudi Aramco
+Q37158	Starbucks
+Q122741	Sega
+Q192653	Czech Airlines
+Q212405	Procter & Gamble
+Q217583	Berkshire Hathaway
+Q467752	Verizon Communications
+Q542511	Hoechst AG
+Q37093	Yahoo!
+Q49125	Toshiba
+Q144617	Gruppo TIM
+Q152057	BP
+Q287471	ABN AMRO
+Q485593	Red Hat
+Q49053	Schneider Electric
+Q156959	Merck Group
+Q159766	Dutch East India Company
+Q169167	Metro AG
+Q190464	HSBC
+Q191715	WarnerMedia
+Q214346	Viacom (2005–2019)
+Q274591	Électricité de France
+Q304944	České dráhy
+Q340135	Československá obchodní banka
+Q677085	NortonLifeLock
+Q821293	Rio Tinto (corporation)
+Q861042	Western Union
+Q7240	Lockheed Martin
+Q8774	International Airlines Group
+Q29637	Škoda Auto
+Q72539	U.S. Steel
+Q215363	Sveriges Television
+Q221062	DuPont (1802–2017)
+Q270223	E.ON
+Q282186	Carl Zeiss AG
+Q336735	ČEZ Group
+Q459965	Caterpillar Inc.
+Q504998	LVMH
+Q638098	Royal Mail
+Q18224	Maersk
+Q76039	Hudson's Bay Company
+Q151107	Michelin
+Q156644	Raytheon Company
+Q186394	Fujitsu
+Q218715	Blohm+Voss
+Q129072	Persepolis
+Q5747	Palmyra
+Q10285	Colosseum
+Q200441	Antioch
+Q192541	Ctesiphon
+Q242741	Erechtheion
+Q173532	Byblos
+Q62378	Tower of London
+Q5788	Petra
+Q844930	Classical Athens
+Q19053	Mystras
+Q233576	Epidaurus
+Q464266	Dura-Europos
+Q658893	Italica
+Q18986	Pergamon
+Q19861	Verulamium
+Q37200	Great Pyramid of Giza
+Q43332	Pompeii
+Q115253	Takht-e Soleymān
+Q172613	Teotihuacan
+Q192784	Trajan's Column
+Q22647	Troy
+Q26732	Hampi
+Q47611	Ephesus
+Q170047	Samarra
+Q232615	Sardis
+Q237128	Mesa Verde National Park
+Q506022	USS Arizona (BB-39)
+Q756824	Temple of Hephaestus
+Q849517	Visoki Dečani
+Q890652	Our Lady of Ljeviš
+Q954866	Koroni
+Q29317	Bagan
+Q39671	Stonehenge
+Q44112	Cyrene, Libya
+Q75459	Delphi
+Q163607	Angkor
+Q174139	Iwami Ginzan Silver Mine
+Q178835	Baalbek
+Q180773	Susa
+Q200200	Assur
+Q204905	Eleusis
+Q217379	Tiryns
+Q391215	Volubilis
+Q546010	Ani
+Q617550	Apamea, Syria
+Q639208	Bodiam Castle
+Q696193	Ecbatana
+Q5786	Arch of Constantine
+Q42798	Borobudur
+Q132564	Mycenae
+Q173527	Knossos
+Q191504	Leptis Magna
+Q193325	Merv
+Q209349	Nicomedia
+Q237614	Nimrud
+Q243456	Cumae
+Q263567	Rose Island (Lake Starnberg)
+Q379652	Philippi
+Q384813	Temple of Athena Nike
+Q638445	Chersonesus
+Q696803	Las Médulas
+Q943637	Nicopolis
+Q950970	Dover Castle
+Q5699	Ur
+Q23048	Colonia Claudia Ara Agrippinensium
+Q43473	Angkor Wat
+Q130958	Great Sphinx of Giza
+Q192268	Abydos, Egypt
+Q212399	Aléria
+Q213679	Pella
+Q272680	Bosra
+Q326616	SMS Cormoran (1909)
+Q333661	Cahokia
+Q368628	Sicyon
+Q639000	Wupatki National Monument
+Q729978	Mediolanum
+Q849709	Laodicea on the Lycus
+Q857891	USS Monitor
+Q5724	Anuradhapura
+Q101583	Thebes, Egypt
+Q169460	Miletus
+Q178813	Herculaneum
+Q186312	Masada
+Q193093	Platonic Academy
+Q205131	Leshan Giant Buddha
+Q208379	Tel Megiddo
+Q211252	Madinat al-Zahra
+Q244762	Mari, Syria
+Q277540	Chan Chan
+Q366220	Adony
+Q390028	Independence Hall
+Q392725	Shuruppak
+Q484458	Buddhas of Bamiyan
+Q539538	Beeston Castle
+Q540964	Harlech Castle
+Q549614	Crowland Abbey
+Q633757	Aspendos
+Q636774	Valle dei Templi
+Q648902	Lake Bled
+Q135285	Dimitrovgrad, Russia
+Q9997	Borne, Overijssel
+Q491102	Taldıqorğan
+Q7859	Yuzhno-Sakhalinsk
+Q64004	Grindelwald
+Q688716	Armiansk
+Q9864	Schijndel
+Q576532	Dworp
+Q66629	Saanen
+Q64195	Splügen
+Q68449	Arogno
+Q848988	Noordwijkerhout
+Q65543	Thal, St. Gallen
+Q67130	Riva San Vitale
+Q67528	Schönenberg, Zürich
+Q67986	Rovio, Ticino
+Q81306	Forbach (Baden)
+Q9867	Sint-Oedenrode
+Q64011	Lauterbrunnen
+Q65083	Tschlin
+Q68787	Sessa, Ticino
+Q485891	Ananiv
+Q488545	Spijkenisse
+Q713319	Gouvy
+Q65089	Ramosch
+Q65241	Nufenen
+Q70357	Niederwald, Switzerland
+Q93485	Loosdrecht
+Q146510	Rakhiv
+Q149173	Sokyriany
+Q182806	Näfels
+Q353365	Addrup
+Q369813	Ubbergen
+Q571423	Essen (Oldenburg)
+Q600486	Pavlovsk, Altai Krai
+Q659947	Schwanden, Glarus
+Q661993	Alsemberg
+Q693513	Brasschaat
+Q6448	Bannewitz
+Q64559	Waltensburg/Vuorz
+Q65110	Guarda, Switzerland
+Q65107	Stierva
+Q66214	Filisur
+Q68332	Bivio
+Q69231	Innertkirchen
+Q134302	Vyatskiye Polyany
+Q146542	Perechyn
+Q555140	Capileira
+Q659907	Präz
+Q659972	Santa Maria Val Müstair
+Q788911	Staré Sedliště
+Q8239	Schmiedeberg, Saxony
+Q58940	Capolago
+Q64886	Hinterrhein, Switzerland
+Q64972	Maladers
+Q65167	Andiast
+Q65328	Schinznach-Bad
+Q65502	Bönigen
+Q65557	Lavin
+Q66342	Selma, Switzerland
+Q68319	Bergün/Bravuogn
+Q68829	Meride
+Q68766	Brione (Verzasca)
+Q70020	Sobrio
+Q70699	Sonogno
+Q130580	Elst, Gelderland
+Q136383	Zhukov, Kaluga Oblast
+Q145812	Telnice (Ústí nad Labem District)
+Q157447	Lebedyan
+Q212096	Kastellorizo
+Q241910	Velykyi Bereznyi
+Q307103	Abcoude
+Q597413	Wildhaus
+Q615732	Breukelen
+Q616808	Chemal
+Q644055	Mollis
+Q670057	Birgitz
+Q675854	Puyloubier
+Q681521	Kholmogory, Arkhangelsk Oblast
+Q837211	Scheveningen
+Q842477	Oosterzele
+Q869624	Mogelsberg
+Q975013	Casillas de Coria
+Q299	Vidov
+Q6724	Hermsdorf, Saxony
+Q13945	Vacarisses
+Q43713	Montehermoso
+Q47585	Garda, Veneto
+Q64368	Safien
+Q65172	Calfreisen
+Q65361	Mon, Switzerland
+Q65676	Bütschwil
+Q66036	Arvigo
+Q66208	Frutigen
+Q66662	Sternenberg
+Q67730	Frasco
+Q68408	Goldingen
+Q69256	Wilderswil
+Q69991	Corippo
+Q100033	Noorbeek
+Q134114	Battle of Austerlitz
+Q151290	Battle of Moscow
+Q192660	Battle of Okinawa
+Q459447	Siege of Yorktown
+Q160077	Fall of Constantinople
+Q16470	Normandy landings
+Q33132	Battle of Gettysburg
+Q210354	Battle of Kulikovo
+Q369560	Siege of Baghdad (1258)
+Q27900	Siege of Constantinople (717–718)
+Q31900	Battle of Marathon
+Q38789	Battle of Stalingrad
+Q41894	Battle of New Orleans
+Q112016	Battle of the Persian Gate
+Q426227	Battle of Passchendaele
+Q443587	Battle of Mława
+Q521799	Battle of the Neva
+Q4373	Battle of White Mountain
+Q14689	Battle on the Ice
+Q130847	Battle of Verdun
+Q151340	Battle of France
+Q154635	Battle of Blenheim
+Q158054	Battle of Lissa (1866)
+Q193993	Battle of Pea Ridge
+Q239255	Battle of Arras (1917)
+Q464512	Battle of Balaclava
+Q562324	Battle of Poznań (1704)
+Q620244	Battle of Bentonville
+Q655777	Battle of the Allia
+Q689183	Battle of Sainte-Foy
+Q692065	Leningrad–Novgorod offensive
+Q1392	Battle of Nieuwpoort
+Q83224	Battle of Hastings
+Q118951	Battle of Meloria (1284)
+Q154426	Battle of Jena–Auerstedt
+Q162357	Battle of Smolensk (1941)
+Q167259	Battle of Lützen (1632)
+Q170400	Battle of Kunersdorf
+Q173077	Battle of Tours
+Q179591	Battle of Cannae
+Q188495	Battle of Agincourt
+Q200855	Battle of Vienna
+Q201692	Battle of Poitiers
+Q205379	Battle of Breitenfeld (1631)
+Q208694	Sino-Indian War
+Q222013	Battle of Bosworth Field
+Q233343	Second Battle of Bull Run
+Q233360	Second Battle of Corinth
+Q234188	Battle of Sekigahara
+Q235344	Battle of the Alamo
+Q244980	Siege of Belgrade (1456)
+Q296754	Battle of Singapore
+Q312268	Siege of Constantinople (626)
+Q552727	Kerch–Eltigen operation
+Q600016	Battle of Jargeau
+Q690464	Battle of Mikatagahara
+Q700937	Crimean campaign
+Q767935	Siege of Rhodes (1522)
+Q815160	Siege of Carthage (Third Punic War)
+Q815216	Siege of Sevastopol (1854–1855)
+Q33570	Battle of Grunwald
+Q132568	Battle of the Somme
+Q155302	Battle of Loigny–Poupry
+Q155726	Battle of Narva (1700)
+Q170148	Ragnarök
+Q179288	Battle of Kosovo
+Q180182	Battle of Iwo Jima
+Q190712	First Battle of the Marne
+Q207576	Siege of Vienna (1529)
+Q217145	Guadalcanal campaign
+Q221469	First Battle of Bull Run
+Q277337	Battle of Chosin Reservoir
+Q280868	Battle of Gergovia
+Q308999	Battle of Leyte Gulf
+Q311726	Battle of the Plains of Abraham
+Q313435	Battle of Leuthen
+Q332543	Battle of the Pyramids
+Q334029	Battle of Bunker Hill
+Q335288	Battle of Monte Cassino
+Q392213	Siege of Orléans
+Q517486	Battle of Zenta
+Q535811	Battle of Langensalza (1866)
+Q586204	Battle of Malakoff
+Q589189	Battle of Aschaffenburg (1866)
+Q602744	Falaise pocket
+Q661764	Battle of Wimpfen
+Q694122	Battle of Napue
+Q696835	Liberation of Paris
+Q697654	Siege of Buda (1686)
+Q698045	Sack of Magdeburg
+Q699665	Battle of Dürenstein
+Q700886	Siege of Constantinople (1422)
+Q708217	Battles of Narvik
+Q719252	Battle of Antietam
+Q745543	Battle of Montmirail
+Q767844	Siege of Constantinople (1203)
+Q815105	Siege of Alexandria (641)
+Q815161	Siege of Jerusalem (1187)
+Q815156	Siege of Kerak
+Q830626	Battle of Bouvines
+Q720102	St Pancras railway station
+Q54315	Stockholm Central Station
+Q801046	Kyōto Station
+Q219867	London King's Cross railway station
+Q800761	Firenze Santa Maria Novella railway station
+Q800751	Euston railway station
+Q861473	Portland Union Station
+Q664036	Berlin Warschauer Straße station
+Q800557	Bologna Centrale railway station
+Q801388	Rotterdam Centraal station
+Q567336	Berlin-Wannsee station
+Q800374	Akihabara Station
+Q800657	Den Haag HS railway station
+Q800453	Barcelona Sants railway station
+Q54454	North Station
+Q276785	Gare du Palais
+Q428811	Shibuya Station
+Q635929	Østerport Station
+Q782123	Torino Porta Susa railway station
+Q800875	Hakata Station
+Q801442	Shinagawa Station
+Q801237	Napoli Centrale railway station
+Q23093	Madrid Atocha railway station
+Q49381	Nagoya Station
+Q50719	Amsterdam Centraal station
+Q173919	Ikebukuro Station
+Q214788	London Paddington station
+Q511316	Union Station (Toronto)
+Q677527	Winterthur railway station
+Q800656	Den Haag Laan van NOI railway station
+Q801523	Torino Porta Nuova railway station
+Q801658	Yokohama Station
+Q522868	Budapest Nyugati railway station
+Q658277	Limoges-Bénédictins station
+Q682583	Nürnberg Hauptbahnhof
+Q800398	Antwerpen-Centraal railway station
+Q801405	Schiedam Centrum station
+Q801552	Varese railway station
+Q801551	Ueno Station
+Q801660	Zaragoza–Delicias railway station
+Q841167	Budapest Keleti railway station
+Q985210	London Victoria station
+Q260986	Flinders Street railway station
+Q390638	Machiya Station
+Q541041	Wuppertal Hauptbahnhof
+Q649419	Marylebone station
+Q659091	Hannover-Nordstadt station
+Q667121	Wiesbaden Hauptbahnhof
+Q678461	Meguro Station
+Q800449	Barcelona França railway station
+Q800477	Berlin-Hohenschönhausen station
+Q800653	Delft railway station
+Q800535	Bilbao-Abando railway station
+Q800715	Ebisu Station (Tokyo)
+Q801199	Monza railway station
+Q801187	Milano Porta Garibaldi railway station
+Q801214	Málaga María Zambrano railway station
+Q801376	Roma Tiburtina railway station
+Q801429	Sendai Station (Miyagi)
+Q801521	Torino Lingotto railway station
+Q801366	Richmond station (London)
+Q921772	Brno main railway station
+Q163962	Beijing South railway station
+Q178002	Königs Wusterhausen station
+Q224214	30th Street Station
+Q322286	Uelzen station
+Q323670	Görlitz station
+Q467998	Heidelberg Hauptbahnhof
+Q719530	Clapham Junction railway station
+Q800484	Mahlsdorf railway station
+Q800460	Belfort – Montbéliard TGV station
+Q800506	Berlin Olympiastadion station
+Q800675	Dordrecht railway station
+Q800870	Barmbek station
+Q801179	Metz-Ville station
+Q801455	Southern Cross railway station
+Q801480	Stratford station
+Q801655	Yūrakuchō Station
+Q23081	Madrid Chamartín railway station
+Q54451	Pennsylvania Station (New York City)
+Q117694	St. Gallen railway station
+Q196058	Drammen Station
+Q260886	Como San Giovanni railway station
+Q284195	Blackfriars station
+Q321680	Stuttgart-Bad Cannstatt station
+Q322534	Altenbeken station
+Q454898	Kiel Hauptbahnhof
+Q481276	Berlin Humboldthain station
+Q479789	Bernau bei Berlin station
+Q520844	Venezia Mestre railway station
+Q531789	Santa Apolónia railway station
+Q535612	Bremerhaven Hauptbahnhof
+Q590626	Novara railway station
+Q613204	Piacenza railway station
+Q638604	Berlin-Wedding station
+Q647973	Potsdam Hauptbahnhof
+Q685952	Waterloo East railway station
+Q694033	Biel/Bienne railway station
+Q698337	Nangang station
+Q700588	Taipei Main Station
+Q452804	U.S. Route 491
+Q430608	Japan National Route 20
+Q500968	Japan National Route 417
+Q530229	D1 motorway (Czech Republic)
+Q640239	Japan National Route 8
+Q873337	Japan National Route 10
+Q899326	Japan National Route 19
+Q9010	Bundesautobahn 2
+Q94877	Interstate 81
+Q453292	Interstate 70 in Utah
+Q628076	Alaska Highway
+Q855484	Japan National Route 51
+Q900338	Japan National Route 25
+Q19875	M1 motorway
+Q368453	Japan National Route 171
+Q405076	Japan National Route 367
+Q408924	U.S. Route 27
+Q410767	U.S. Route 91
+Q421126	Japan National Route 342
+Q428428	Tōhoku Expressway
+Q588948	Japan National Route 5
+Q818985	Interstate 80 in Utah
+Q94189	Interstate 39
+Q94752	Interstate 76 (Ohio–New Jersey)
+Q94958	Interstate 90
+Q94967	Interstate 95
+Q270391	Interstate 15 in California
+Q303037	U.S. Route 6
+Q440540	U.S. Route 131
+Q798013	Interstate 295 (Delaware–Pennsylvania)
+Q835385	Washington State Route 16
+Q954514	Expressway S3 (Poland)
+Q9018	Bundesautobahn 7
+Q9042	Bundesautobahn 20
+Q93472	Interstate 15
+Q94369	Interstate 57
+Q94891	Interstate 83
+Q94900	Interstate 84 (Oregon–Utah)
+Q94961	Interstate 91
+Q399994	Interstate 280 (California)
+Q406815	U.S. Route 8
+Q439443	Forest Highway 16
+Q453188	Baltimore–Washington Parkway
+Q453256	Interstate 80 Business (West Wendover, Nevada–Wendover, Utah)
+Q745071	Japan National Route 311
+Q788759	Interstate 275 (Ohio–Indiana–Kentucky)
+Q798308	U.S. Route 466
+Q840606	North Dakota Highway 3
+Q900533	Japan National Route 26
+Q925080	Japan National Route 381
+Q9013	Bundesautobahn 4
+Q17021	Bundesautobahn 115
+Q19193	Interstate 8
+Q93881	Interstate 26
+Q94104	Interstate 30
+Q94297	Interstate 45
+Q94613	Interstate 68
+Q94868	Interstate 79
+Q94957	Interstate 89
+Q262912	Japan National Route 493
+Q399996	Interstate 680 (California)
+Q410937	U.S. Route 163
+Q429181	A1 motorway (Romania)
+Q789245	Autovía A-1
+Q807242	Interstate 11
+Q839227	U.S. Route 141
+Q841448	Wisconsin Highway 71
+Q843258	Interstate 84 in Idaho
+Q876768	Interstate 22
+Q900756	D3 motorway (Czech Republic)
+Q904481	Meishin Expressway
+Q945810	European route E18
+Q981843	New Mexico State Road 4
+Q94150	Interstate 35
+Q94378	Interstate 59
+Q94732	Interstate 76 (Colorado–Nebraska)
+Q94885	Interstate 82
+Q94971	Interstate 96
+Q400444	U.S. Route 101 in California
+Q400522	U.S. Route 199
+Q410756	U.S. Route 90
+Q410877	U.S. Route 99
+Q410892	U.S. Route 101
+Q460815	Bayshore Freeway
+Q550419	California State Route 1
+Q693493	European route E5
+Q750577	South Dakota Highway 15
+Q751771	European route E1
+Q807352	U.S. Route 89A
+Q842710	Idaho State Highway 28
+Q862476	European route E15
+Q886249	Las Vegas Beltway
+Q918865	British Columbia Highway 1
+Q921422	European route E6
+Q933934	Interstate 180 (Pennsylvania)
+Q9029	Bundesautobahn 12
+Q9193	Bundesautobahn 26
+Q12441	U.S. Route 41
+Q19195	Ridge Route
+Q79914	Interstate 10
+Q2946	Palace of Versailles
+Q12506	Hagia Sophia
+Q191739	Florence Cathedral
+Q213322	Victoria and Albert Museum
+Q7341	Auschwitz concentration camp
+Q154996	Schloss Charlottenburg
+Q157316	Neues Museum
+Q187840	Palais Garnier
+Q208559	Drottningholm Palace
+Q233098	Natural History Museum, Berlin
+Q907052	Shuri Castle
+Q5901	Cathedral of Our Lady (Antwerp)
+Q62378	Tower of London
+Q170495	Topkapı Palace
+Q705848	Schloss Johannisburg
+Q750444	Stockholm Palace
+Q51177	Santa Croce, Florence
+Q156591	Yad Vashem
+Q42049	Balmoral Castle
+Q131330	Schönbrunn Palace
+Q156316	Würzburg Residence
+Q46242	Hofburg
+Q51252	Uffizi
+Q573881	San Lorenzo, Florence
+Q51175	Santa Maria Novella
+Q194626	Kunstmuseum Basel
+Q215423	Saint Isaac's Cathedral
+Q63465	Glover Garden
+Q131631	Nymphenburg Palace
+Q188112	National Museum (Prague)
+Q271928	Palazzo Vecchio
+Q385567	Rein Abbey, Austria
+Q457453	Villa Tugendhat
+Q486382	Castel Sant'Angelo
+Q754507	Ateneum
+Q911047	Palazzo Medici Riccardi
+Q147286	Kyoto National Museum
+Q151545	Wartburg
+Q157298	Pergamon Museum
+Q273593	Beaux-Arts de Paris
+Q304037	Austrian National Library
+Q377500	Royal Museums of Fine Arts of Belgium
+Q394832	Convent of Saint Agnes (Prague)
+Q429192	Royal Chapel of Granada
+Q474563	Teylers Museum
+Q595802	Plantin-Moretus Museum
+Q623558	Oude Kerk, Amsterdam
+Q660082	Melk Abbey
+Q692381	Het Loo Palace
+Q856640	La contemporaine
+Q859732	Certosa di San Martino
+Q147157	National Museum of Ethnology (Japan)
+Q284716	Saint Joseph's Oratory
+Q321783	Cecilienhof
+Q455354	German Maritime Museum
+Q644464	Akershus Fortress
+Q674996	Lilienfeld Abbey
+Q964499	Villa Giulia
+Q451	Mundaneum
+Q23868	Brest Fortress
+Q41977	Hiroshima Castle
+Q43282	Alexander Nevsky Cathedral, Sofia
+Q167314	Dresden Castle
+Q176251	Thyssen-Bornemisza Museum
+Q189358	Kronborg
+Q206101	Rosenborg Castle
+Q253430	Tyresö Palace
+Q296436	ARA Presidente Sarmiento
+Q315889	Lambach Abbey
+Q337224	Academia Brasileira de Letras
+Q522604	Basilica of the Holy Blood
+Q547789	Maison de Balzac
+Q583055	Bunkamura
+Q639909	Grote or Sint-Laurenskerk (Alkmaar)
+Q697145	Klosterneuburg Monastery
+Q743881	Bakhchisaray Palace
+Q756098	Royal Castle, Warsaw
+Q779703	Royal Museum for Central Africa
+Q810100	San Piero a Grado
+Q812396	Bayerisches Armeemuseum
+Q846006	Basilica of the Sacred Heart, Brussels
+Q190260	Zentralbibliothek Zürich
+Q203797	Eggenberg Palace, Graz
+Q211262	Calouste Gulbenkian Museum
+Q212065	Edinburgh Castle
+Q226103	Frederiksborg Castle
+Q276846	Francke Foundations
+Q281903	Museum Het Prinsenhof
+Q315644	Neue Kirche, Berlin
+Q378012	Mondsee Abbey
+Q385428	Altenburg Abbey
+Q452375	Swiss Alpine Museum
+Q550576	White Tower of Thessaloniki
+Q574723	Mannheim Palace
+Q599223	Palace of Mafra
+Q601223	Eise Eisinga Planetarium
+Q667906	Museum De Cruquius
+Q681497	Stockholm Observatory
+Q704933	Haus der Kulturen der Welt
+Q775644	Rubenshuis
+Q666935	Dresden Cathedral
+Q259799	Theatine Church, Munich
+Q738015	Helsinki Cathedral
+Q158324	St. Michael's Church, Hildesheim
+Q188856	Panthéon
+Q776727	St. Procopius Basilica in Třebíč
+Q28785	Sacré-Cœur, Paris
+Q657118	Riddarholmen Church
+Q972612	Fredrik Church
+Q430626	Basilica of the Twenty-Six Holy Martyrs of Japan (Nagasaki)
+Q719794	Church of the Gesù
+Q753721	Modena Cathedral
+Q869513	Santa Maria del Popolo
+Q31204	St. Henry's Cathedral
+Q164289	St. John's Church, Stockholm
+Q334303	St Augustine's Abbey
+Q586142	Sainte-Trinité, Paris
+Q153951	Kaiser Wilhelm Memorial Church
+Q157229	Dresden Frauenkirche
+Q265745	St. Michael's Church, Munich
+Q427340	Saint-Gervais-Saint-Protais
+Q583251	Saint-Étienne-du-Mont
+Q638283	San Luigi dei Francesi
+Q794876	San Zaccaria, Venice
+Q963954	Scrovegni Chapel
+Q13408	Saint-Esprit, Paris
+Q201935	Oulu Cathedral
+Q212251	Holy Trinity Church, Helsinki
+Q360572	Adolf Fredrik Church
+Q435712	Helsinki Old Church
+Q549585	Schottenstift
+Q623558	Oude Kerk, Amsterdam
+Q665154	Santa Cristina de Lena
+Q684334	Wotruba Church
+Q688315	Bern Minster
+Q810126	Old St. Peter's Basilica
+Q65326	Saint-Jacques-du-Haut-Pas
+Q198106	St. Paul's Church, Frankfurt am Main
+Q251948	Bürgersaalkirche
+Q252575	York Minster
+Q295844	Saint-Sulpice, Paris
+Q321819	Stiftskirche, Stuttgart
+Q330564	La Madeleine, Paris
+Q391123	Basilica of Bom Jesus
+Q403322	Högalid Church
+Q408847	Karlskirche
+Q441668	Kirche am Steinhof
+Q513902	Braga Cathedral
+Q524044	Trinity Church, Munich
+Q533680	Santa Maria dei Miracoli, Venice
+Q541202	Saint Nicholas Cathedral, Kuopio
+Q542070	San Pietro in Vincoli
+Q606334	Oscar Fredrik Church
+Q674996	Lilienfeld Abbey
+Q700199	Church of Saint Michael, Vienna
+Q748689	Scalzi, Venice
+Q827091	All Saints Church, Lund
+Q866896	Trinity Church (Manhattan)
+Q881050	Neumünster, Würzburg
+Q946542	San Francesco della Vigna
+Q956163	Saints Cyril and Methodius Cathedral
+Q29157	Church of Our Saviour, Copenhagen
+Q215208	Church of the Savior on Blood
+Q220811	Santa Maria Zobenigo
+Q279151	Notre-Dame-de-Bonne-Nouvelle
+Q364810	Wilhering Abbey
+Q435829	Petäjävesi Old Church
+Q499285	Geghard
+Q535244	Saint John the Baptist at the Béguinage
+Q550157	Saint-Augustin, Paris
+Q639909	Grote or Sint-Laurenskerk (Alkmaar)
+Q649933	Neuberg Abbey
+Q693869	Augustinian Church, Vienna
+Q730019	Hagios Demetrios
+Q819742	Church of Peace, Potsdam
+Q901259	Trinity Church (Boston)
+Q933903	St. Mary's Church, Gdańsk
+Q940143	Bromma Church
+Q975925	Notre-Dame de la Garde
+Q57341	Frankfurt Cathedral
+Q239560	St Martin's Cathedral, Bratislava
+Q315644	Neue Kirche, Berlin
+Q445853	New Altstadt Church
+Q535443	Church of Saint Peter, Hamburg
+Q550064	Malmesbury Abbey
+Q567822	Misión San Francisco Javier de Viggé-Biaundó
+Q598352	St. Maria im Kapitol
+Q600943	Church of Saint Maurice (Olomouc)
+Q630414	Disentis Abbey
+Q638250	Notre-Dame du Haut
+Q675513	Santi Cosma e Damiano
+Q688524	Franciscan Church, Vienna
+Q695388	Piarist Church, Vienna
+Q770459	Basilica of Notre-Dame du Port
+Q810104	Santa Chiara, Naples
+Q810103	San Petronio, Bologna
+Q846559	Santa Maria in Via Lata
+Q873490	St. Markus (Munich)
+Q875536	Klosterkirche St. Anna im Lehel
+Q898260	Church of St. Adalbert, Kraków
+Q520154	Wired (magazine)
+Q33511	Rolling Stone
+Q154020	Elle (magazine)
+Q333644	Cosmopolitan (magazine)
+Q762195	Esquire (magazine)
+Q43297	Time (magazine)
+Q158322	Stern (magazine)
+Q180089	The Economist
+Q311249	GQ
+Q150820	Playboy
+Q372989	Fortune (magazine)
+Q778079	Marie Claire
+Q849887	TV Guide
+Q158283	Vanity Fair (magazine)
+Q515818	Casus Belli (magazine)
+Q707182	Computer Gaming World
+Q154008	Vogue (magazine)
+Q277351	Harvard Business Review
+Q472870	Glamour (magazine)
+Q590171	Vokrug sveta
+Q668041	Almanach de Gotha
+Q707291	PC World
+Q47879	Titanic (magazine)
+Q61503	The Hollywood Reporter
+Q131478	Der Spiegel
+Q153297	The Gentleman's Magazine
+Q174941	Good Housekeeping
+Q275033	Entertainment Weekly
+Q481190	Kicker (sports magazine)
+Q525592	New Scientist
+Q631830	PCMag
+Q719801	Nintendo Power
+Q721140	Pitchfork (website)
+Q765757	Vestnik Evropy
+Q823373	Hustler
+Q848629	U.S. News & World Report
+Q849759	Punch (magazine)
+Q909176	Cahiers du Cinéma
+Q27197	Game Informer
+Q59083	Slashdot
+Q108515	Penthouse (magazine)
+Q219293	2600: The Hacker Quarterly
+Q277666	Computer and Video Games
+Q315718	GamePro
+Q318534	Fliegende Blätter
+Q371820	Reader's Digest
+Q433160	Argia (magazine)
+Q634937	Architectural Digest
+Q654606	Harper's Bazaar
+Q663793	Elsevier (magazine)
+Q685331	Moskvityanin
+Q700473	Focus (German magazine)
+Q705816	ARTnews
+Q963987	Locus (magazine)
+Q991271	Amazing Stories
+Q7736	MikroBitti
+Q265073	C't
+Q265221	GamesTM
+Q308705	France Football
+Q343615	Action Comics
+Q372444	291 (magazine)
+Q384671	Men's Health
+Q386599	Artforum
+Q445723	Computer Bild
+Q459734	GameStar
+Q463198	Life (magazine)
+Q537664	La Esperantisto
+Q540072	Wirtschaftswoche
+Q581322	The Spectator (1711)
+Q612315	La Revista Blanca
+Q684704	Ver Sacrum (magazine)
+Q696007	GEO (magazine)
+Q726402	Awake!
+Q784201	EMMA (magazine)
+Q827781	Me'assefim
+Q937202	The Magazine of Fantasy & Science Fiction
+Q959665	El Jueves
+Q59079	The Journal of Belarusian Studies
+Q81073	V Jump
+Q119172	Railway Gazette International
+Q164199	Konkret
+Q214082	Skeptical Inquirer
+Q286430	I-D
+Q369602	Games for Windows: The Official Magazine
+Q379049	AVN (magazine)
+Q383497	Different Worlds
+Q579114	Filosofický časopis
+Q606680	CosmoGirl
+Q646749	Monocle (brand)
+Q680794	Christianity Today
+Q682202	White Dwarf (magazine)
+Q753091	Crash (magazine)
+Q793981	Electronic Gaming Monthly
+Q858319	Car and Driver
+Q918215	Russkoye Bogatstvo
+Q945291	Anales de la Real Sociedad Española de Química
+Q951591	Out (magazine)
+Q987234	Dörmögő Dömötör
+Q31326	Dengeki Maoh
+Q42345	Analog Science Fiction and Fact
+Q483285	My Chemical Romance
+Q2331	Led Zeppelin
+Q203871	Rush (band)
+Q655239	Exile (Japanese band)
+Q57138	Within Temptation
+Q125603	The Clash
+Q177732	Il Volo
+Q183048	The Beach Boys
+Q11647	Nine Inch Nails
+Q483407	Ramones
+Q25177	Rammstein
+Q156305	A-ha
+Q201207	Stratovarius
+Q491542	S.E.S. (group)
+Q600344	The Band
+Q23471	Lordi
+Q43259	No Doubt
+Q43267	The Jackson 5
+Q43510	Nightwish
+Q45188	Coldplay
+Q102385	The Pussycat Dolls
+Q332399	Traveling Wilburys
+Q492035	AOA (group)
+Q503205	Rouge (group)
+Q650374	Loverboy
+Q846373	The Temptations
+Q58381	Duran Duran
+Q131366	Disturbed (band)
+Q133405	Bee Gees
+Q178549	Counting Crows
+Q182223	Maroon 5
+Q211526	The Byrds
+Q212533	Grateful Dead
+Q218837	The Supremes
+Q484427	The Cure
+Q622988	Paul McCartney and Wings
+Q854590	Yellow Magic Orchestra
+Q864433	Haloo Helsinki!
+Q920966	Puffy AmiYumi
+Q16005	Rainbow (rock band)
+Q18557	Opeth
+Q32645	Die Ärzte
+Q44892	Kraftwerk
+Q184386	Yes (band)
+Q188713	The Kinks
+Q485811	Fall Out Boy
+Q620990	Alexandrov Ensemble
+Q798232	Bachman–Turner Overdrive
+Q918511	Scandal (Japanese band)
+Q922528	Cameo (band)
+Q20709	Swedish House Mafia
+Q45165	System of a Down
+Q48995	Blood, Sweat & Tears
+Q52463	Wu-Tang Clan
+Q76244	Epica (band)
+Q109871	Anthrax (American band)
+Q134541	Black Eyed Peas
+Q151012	Genesis (band)
+Q159351	Run-DMC
+Q162586	Dream Theater
+Q165193	Avenged Sevenfold
+Q171718	Children of Bodom
+Q192463	Creedence Clearwater Revival
+Q193697	Sugababes
+Q214039	Beastie Boys
+Q218255	Electric Light Orchestra
+Q220730	The Killers
+Q254138	Slipknot (band)
+Q268160	The White Stripes
+Q280732	AAA (band)
+Q331790	Interpol (band)
+Q507327	The Allman Brothers Band
+Q552377	Diamond Head (English band)
+Q585415	Screamers (2006 film)
+Q626440	Arashi
+Q627520	Brainstorm (Latvian band)
+Q653632	Mike and the Mechanics
+Q678410	Marillion
+Q730158	The Human League
+Q831111	Men at Work
+Q838066	M-Flo
+Q10703	Tri Yann
+Q32826	Lyapis Trubetskoy
+Q35918	Nu Virgos
+Q39682	4Minute
+Q44190	Radiohead
+Q153616	Tangerine Dream
+Q156523	Sodom (band)
+Q158462	Lynyrd Skynyrd
+Q162247	Therion (band)
+Q188626	Sonic Youth
+Q191660	Sonata Arctica
+Q208211	Dead Kennedys
+Q216856	N.W.A
+Q239074	Sepultura
+Q258546	In Flames
+Q259254	Bon Jovi
+Q279105	Volbeat
+Q283835	Carcass (band)
+Q322196	Cypress Hill
+Q6403	Lake Geneva
+Q5513	Lake Baikal
+Q1066	Lake Superior
+Q5505	Lake Victoria
+Q5484	Caspian Sea
+Q35342	Lake Titicaca
+Q1062	Lake Ontario
+Q1169	Lake Michigan
+Q1383	Lake Huron
+Q5492	Lake Erie
+Q5511	Lake Tanganyika
+Q6383	Lake Balaton
+Q14381	Lake Lucerne
+Q14379	Lake Maggiore
+Q23883	Dead Sea
+Q131615	Lake Starnberg
+Q629354	Storsjön
+Q14418	Lake Lugano
+Q3272	Lake Winnipeg
+Q4138	Chiemsee
+Q14375	Lake Neuchâtel
+Q35883	Aral Sea
+Q217430	Siljan (lake)
+Q14429	Lake Biel
+Q15288	Lake Ladoga
+Q68467	Lake Champlain
+Q125211	Lake Edward
+Q192770	Saimaa
+Q891521	Bolmen
+Q5525	Great Bear Lake
+Q5532	Lake Malawi
+Q14407	Lake Zürich
+Q166162	Lake Onega
+Q184492	Mälaren
+Q201843	Lake Khanka
+Q203462	Lake Ilmen
+Q208926	Loch Lomond
+Q580019	Oulujärvi
+Q648902	Lake Bled
+Q845876	Lake of the Woods
+Q14442	Lake Brienz
+Q14444	Walensee
+Q15523	Lake Como
+Q42191	Issyk-Kul
+Q179970	Lake Eyre
+Q181932	Lake Sevan
+Q211823	Lake Tuz
+Q212209	Mjøsa
+Q217109	Lake Teletskoye
+Q265336	Ammersee
+Q271320	Åsunden (Västergötland)
+Q310547	Lake Alakol
+Q931708	Lake Tengiz
+Q5539	Great Slave Lake
+Q6414	Lake Garda
+Q14436	Lake Zug
+Q49650	Loch Ness
+Q116685	Lake Tana
+Q125888	Lake Albert (Africa)
+Q149448	Storsjön (Gästrikland)
+Q173596	Vänern
+Q188195	Vättern
+Q203811	Lake Skadar
+Q213769	Lake Päijänne
+Q216621	Lake Zaysan
+Q537374	Hulun Lake
+Q565637	Untersee (Lake Constance)
+Q694789	Müggelsee
+Q746304	Lake Seliger
+Q828804	Lake Quinault
+Q14448	Lake Morat
+Q14426	Lake Thun
+Q134485	Lake Balkhash
+Q174645	Walchensee
+Q201294	Qinghai Lake
+Q202019	Rainy Lake
+Q206942	Lough Neagh
+Q211516	Võrtsjärv
+Q212051	Mývatn
+Q215818	Torneträsk
+Q329266	Crater Lake
+Q373732	Lake Lacha
+Q458965	Ströms vattudal
+Q635952	Beetzsee
+Q696445	Tyrifjorden
+Q731175	Cayuga Lake
+Q736707	Lake St. Clair
+Q746975	Lake Chilwa
+Q845880	Hornavan
+Q953206	Uddjaure
+Q15648	Lake Iseo
+Q19253	Lake Peipus
+Q173862	Lake Nicaragua
+Q175828	Lake Saint-Louis
+Q182137	Lake Maracaibo
+Q203137	Lake Inari
+Q207690	Poyang Lake
+Q253971	Tegernsee (lake)
+Q276776	South Aral Sea
+Q317277	Øyeren
+Q10274653	Brazilian Army Non-Commissioned Officer Academy
+Q28650707	3rd Motor Rifle Division
+Q25110893	136th Guards Motor Rifle Brigade
+Q277036	People's Defense Units
+Q464570	American Forces Network
+Q10886695	Plain Yellow Banner
+Q516446	Royal Army Medical Corps
+Q4030829	31st Guards Air Assault Brigade
+Q480220	Military Counterintelligence Service (Germany)
+Q3077033	Maritime Forces Pacific
+Q609474	Joint Chiefs of Staff
+Q4032154	69th Rifle Division
+Q4942294	PLA Unit 61398
+Q4031635	5th Guards Rifle Division
+Q28650675	27th Separate Guards Motor Rifle Brigade
+Q464176	American Expeditionary Forces
+Q4031786	54th Guards Rocket Division
+Q3034180	Confederal militias
+Q4031670	50th Rifle Division (Soviet Union)
+Q948881	National Liberation Army (Libya)
+Q829062	Deutsche Verkehrsfliegerschule
+Q736213	Signal Corps (United States Army)
+Q4393533	Regiment van Heutsz
+Q605324	Czechoslovak Legion
+Q7889514	RDECOM
+Q7043396	No. 332 Squadron RAF
+Q1673189	Irregular military
+Q9131389	25th Air Cavalry Brigade (Poland)
+Q684480	9th Army (Soviet Union)
+Q4062701	Almaz (Belarus)
+Q4115291	Royal Northumberland Fusiliers
+Q4412541	North America and West Indies Station
+Q4638181	45 Commando
+Q2355002	4th Gorkha Rifles
+Q12782852	252nd Rifle Division
+Q181733	Praetorian Guard
+Q17108003	New Mexico Army National Guard
+Q1881025	M73 machine gun
+Q4032226	7th Guards Rocket Division
+Q4597007	2/15th Battalion (Australia)
+Q3057698	Escadron de Chasse 1/4 Dauphiné
+Q927370	Sayeret Matkal
+Q4031791	54th Rifle Division (Soviet Union)
+Q4424021	Military Intelligence Service (United States)
+Q6886961	Mobile Riverine Force
+Q11600081	116th Division (Imperial Japanese Army)
+Q2457082	Caucasus Army (Russian Empire, 1914–1917)
+Q2071843	Army East Prussia (Wehrmacht)
+Q3599203	4th Psychological Operations Group
+Q4634473	30 Commando Information Exploitation Group
+Q1126384	Connolly Column
+Q2934784	Cameronians (Scottish Rifles)
+Q15953484	Whitworth rifle
+Q81925	Lancashire Fusiliers
+Q3329335	Sherwood Foresters
+Q6950615	Māori Battalion
+Q830346	Podhale Rifles
+Q7374256	Royal Hampshire Regiment
+Q7747256	The Light Infantry Division at Yorktown (1781)
+Q7933936	Virgin Islands National Guard
+Q18395176	415th Rifle Division (Soviet Union)
+Q25093466	6th Tank Brigade (Russia)
+Q5472927	Forty-Third Army (Japan)
+Q7674068	Tactical Air Control Party
+Q16156398	2nd Army Group (Kingdom of Yugoslavia)
+Q22935768	25th Special Mission Forces Division
+Q3455370	Dragoons of the Imperial Guard
+Q4030060	203rd Rifle Division
+Q4644640	82nd (West Africa) Division
+Q5092970	Cheshire Regiment
+Q5646050	Hampshire County Division
+Q19562940	Alexander Bay Commando
+Q19563190	Mariental Commando
+Q56628160	2nd King Edward's Horse
+Q3817291	Sébastien Faure Century
+Q7541531	Slovak Insurgent Air Force
+Q7585891	Regiment Special Force
+Q270202	Eighth Army (United Kingdom)
+Q827192	Aegean Army
+Q4031272	40th Infantry Division (Russian Empire)
+Q4031982	60th Army (Soviet Union)
+Q4637612	41 Squadron SAAF
+Q5738082	Herefordshire Light Infantry
+Q7308382	Regiment Potchefstroom Universiteit
+Q19563492	Vaalharts Commando
+Q4971243	British West Indies Regiment
+Q7015353	New Zealand Expeditionary Force
+Q7943573	Vulnetari
+Q19563503	Vereeniging Commando
+Q42723423	Paarl Commando
+Q7308384	Thaba Bosiu Armour Regiment
+Q19563384	Rustenburg Commando
+Q19563454	Theunissen Commando
+Q4030425	268th Rifle Division
+Q5976515	Unidad de Operaciones Especiales
+Q6818485	Mercian Regiment
+Q14849065	Netherlands Maritime Special Operations Forces
+Q19563065	Gordonia Commando
+Q19563395	Schweizer Reineke Commando
+Q19563445	Swartland Commando
+Q1827419	Mail Today
+Q85329	La Repubblica
+Q47596	Chicago Tribune
+Q13422541	EITB
+Q1706651	Miami Herald
+Q3192723	Kansan Uutiset
+Q595564	Houston Chronicle
+Q2496821	La Jornada
+Q309135	Corriere della Sera
+Q946366	Nezavisimaya Gazeta
+Q1504847	Svenska Dagbladet
+Q1056889	Deseret News
+Q2273191	Milenio
+Q4048611	Russia Beyond
+Q60565293	Ajel
+Q387054	Rodong Sinmun
+Q4426345	Kultura (newspaper)
+Q4791789	Arkansas Gazette
+Q3553781	Valeurs actuelles
+Q59055	Berlingske
+Q917580	Marca (newspaper)
+Q7089470	Omaha World-Herald
+Q1324151	El Espectador
+Q3312323	Faro de Vigo
+Q7190653	Pichilemu (newspaper)
+Q2004274	Vancouver Sun
+Q889935	The Dallas Morning News
+Q5165605	East Bay Times
+Q7122425	Pacific Daily News
+Q7767316	The Sun (Nigeria)
+Q902507	Il Gazzettino
+Q651988	La Gazzetta dello Sport
+Q8025819	The Winnipeg Tribune
+Q8035879	World Journal
+Q1460924	Morgenbladet
+Q16839004	Battle Creek Enquirer
+Q30084315	My Press
+Q3989726	The Tuscaloosa News
+Q7067036	Nowy Dziennik
+Q827097	Berria
+Q983247	New-York Tribune
+Q3520347	The Columbus Dispatch
+Q221718	The Seattle Times
+Q2038698	The New York Observer
+Q3141398	Houston Press
+Q4539628	Okinawa Times
+Q613979	Hufvudstadsbladet
+Q5603700	Greenbelt News Review
+Q6492760	Las Últimas Noticias
+Q11991840	Nordjyske Stiftstidende
+Q1757831	Vårt Land (Norwegian newspaper)
+Q3315661	Minute (newspaper)
+Q3546531	Télé 7 Jours
+Q61989571	Lifo (magazine)
+Q7511612	Sierra Vista Herald
+Q7716562	The Berlin Daily Sun
+Q778813	El Cronista
+Q4705983	Alamogordo Daily News
+Q6940243	Muscatine Journal
+Q5062255	Centre Daily Times
+Q7735596	The Gadsden Times
+Q7743126	The Jersey Journal
+Q7739709	The Hillsboro Argus
+Q4795970	Arriba (newspaper)
+Q7680310	Taloussanomat
+Q3102631	Guangming Daily
+Q7162921	Peninsula Clarion
+Q7748851	The Louisiana Weekly
+Q7762191	The San Bernardino Sun
+Q55667061	Brookline TAB
+Q556902	Expansión (Spanish newspaper)
+Q2076422	Chicago Reader
+Q3365092	Österbottens Tidning
+Q4144532	La Mañana
+Q4889872	Bennington Banner
+Q5209232	Daily Camera
+Q7757852	The Post-Star
+Q12115722	Culture and Life
+Q13447162	Daily Democrat
+Q913303	El Diario Vasco
+Q2937243	Cape Argus
+Q7712723	The Advocate (Contra Costa College)
+Q7750763	The McDowell News
+Q17085814	The Paris News
+Q17512194	Culpeper Star-Exponent
+Q7831915	TradeWinds (newspaper)
+Q3398806	Y Cymro
+Q7912156	Valley News
+Q1750567	The Morning Post
+Q2685557	The Samaja
+Q7762277	The Saratogian
+Q7851177	Tucson Weekly
+Q4911948	Billings Gazette
+Q6747138	Manawatū Standard
+Q7515908	Silver City Daily Press and Independent
+Q6915449	Moscow-Pullman Daily News
+Q13447289	Estes Park Trail-Gazette
+Q2839040	El Economista (Spain)
+Q3666950	Nya Wermlands-Tidningen
+Q5890620	Hometown Journal
+Q692049	Russian cruiser Askold
+Q240135	MS Moby Zazà
+Q628031	Russian cruiser Gromoboi
+Q966791	MS Mega Smeralda
+Q2376481	SS Lane Victory
+Q5653703	Venezuelan patrol boat Naiguatá
+Q65120775	Le Commandant Charcot
+Q7870041	USS Hartley (DE-1029)
+Q7278032	Borys Aleksandrov (research vessel)
+Q1614744	MS Nordlys (1994)
+Q19878457	Vamoose (yacht)
+Q380129	MY Ady Gil
+Q7072942	ORP Jastrząb
+Q1511675	Russian battleship Oryol
+Q19854215	Chinese destroyer Xi'an (153)
+Q24061026	SS Pewabic
+Q2707807	French ship Océan (1790)
+Q3355990	MV Saga
+Q7394070	SS Montanan
+Q1345251	Viking Truvor
+Q918482	RMS Celtic (1901)
+Q2110392	Princess Daphne
+Q4052252	USS McLanahan (DD-615)
+Q4148613	Soviet destroyer Gremyashchy (1937)
+Q7867653	USS Belet
+Q662644	MV Porto
+Q2712135	French tanker Durance
+Q3736035	MS Bluefort
+Q7871595	USS Matagorda (AVP-22)
+Q466706	SMS Gneisenau (1879)
+Q1565616	HMS Untamed
+Q4052246	USS Madison (DD-425)
+Q4349036	MS Wolin
+Q5631216	HMS Adventure (1904)
+Q7874056	USS Shackle (ARS-9)
+Q3273338	MV Isle of Mull
+Q6718149	MS Port Link
+Q7870809	USS Kinzer (APD-91)
+Q649530	USS Gannet (AM-41)
+Q7874080	USS Shaula (AK-118)
+Q7875390	USS Weiss (APD-135)
+Q25110900	Genting Dream
+Q918071	SS Britannic (1874)
+Q2162611	HMS Tiger Bay
+Q2992321	French battleship Condorcet
+Q5634761	HMS Universal
+Q7871231	USS Lesuth (AK-125)
+Q644622	German auxiliary cruiser Widder
+Q833582	SMS Frankfurt
+Q7867652	USS Begor
+Q7875762	USS Zenobia (AKA-52)
+Q816723	HSC Benchijigua Express
+Q4052213	USS Emmons (DD-457)
+Q7870103	USS Hempstead (APA-241)
+Q7874693	USS Thaddeus Parker
+Q11681353	USS Vandivier
+Q535014	SMS Mainz
+Q3574484	USS Zaca (IX-73)
+Q4052224	USS Gillespie
+Q7867824	USS Brambling (AMc-39)
+Q7869274	USS Execute
+Q1564225	Soviet submarine S-13
+Q3019925	MV Moby Corse
+Q4385125	USS Oregon City
+Q5972655	INS Sahyadri (F49)
+Q7867575	USS Barbet (AMc-38)
+Q7869145	USS Embattle (AM-226)
+Q11713805	MV Loch Seaforth (2014)
+Q455096	SS Sołdek
+Q898346	HMS Gambia (48)
+Q2667236	Soviet cruiser Krasny Krym
+Q5634756	HMS United
+Q7571766	Soviet minesweeper T-111
+Q7868626	USS Crag (AM-214)
+Q7871716	USS Menkar (AK-123)
+Q7875296	USS Wasatch (AGC-9)
+Q10938806	MS Wawel
+Q1033587	SS Canopic
+Q2744167	MS Rigel III
+Q4040237	HMS Somerset (1748)
+Q4352927	ORP Rybitwa
+Q5232737	USS Vincennes (CL-64)
+Q7439897	Sea Fighter (FSF-1)
+Q7868107	USS Carpellotti (APD-136)
+Q1544418	HMS Diadem (84)
+Q1547078	Russian destroyer Novik (1911)
+Q1853078	HMS Taurus (P399)
+Q4052228	USS Gridley (DD-380)
+Q7867488	USS Auburn (AGC-10)
+Q7870558	USS John L. Williamson
+Q7872558	USS Oyster Bay (AGP-6)
+Q7873098	USS Prime (AM-279)
+Q7873468	USS Ringness (DE-590)
+Q320069	SMY Hohenzollern
+Q669609	German auxiliary cruiser Pinguin
+Q5634729	HMS Ultimatum
+Q6954829	NOAAS Okeanos Explorer
+Q732620	HMS Shannon (1875)
+Q3841550	MS Riviera
+Q4383510	HMS Phaeton (1914)
+Q3324394	Morrin Centre
+Q521155	Estates Theatre
+Q648483	Stockholm City Hall
+Q734774	Saint Louis University
+Q2942524	Cathedral of Santa María de Vitoria
+Q91274	Galata Tower
+Q5142855	Colegio Mayor de Santiago el Zebedeo
+Q506814	Casa Amatller
+Q644390	Stockmann, Helsinki centre
+Q1630350	Landhaus (Dresden)
+Q2812652	Katedralskolan, Lund
+Q7386456	Caryatid Building
+Q1548928	Potsdam Great Refractor
+Q42310311	Hugh Roy and Lillie Cullen Building
+Q7084503	Old Medicine School of San Carlos
+Q8771987	Edificio Capitol
+Q1164358	Longoria Palace
+Q3075489	Louis Vuitton Foundation
+Q3489939	City Tower (Prague)
+Q755342	Athens Conservatoire
+Q11744412	Kotva Department Store
+Q3564923	Wabash Avenue YMCA
+Q6737714	Majestic Theatre (Dallas)
+Q6356958	Hardin–Simmons University
+Q2887569	Museum of Navarre, Pamplona
+Q1241240	Royal Exchange, London
+Q3029170	Dipoli
+Q6041711	Instituto de Resseguros do Brasil
+Q2454624	Tsentrosoyuz building
+Q143615	ARA Uruguay
+Q5501495	Fremantle Markets
+Q52083605	Scuola Grande di San Giovanni Evangelista
+Q6745206	Institut Pere Mata
+Q7707718	Texas Governor's Mansion
+Q15919889	Tilkka
+Q2946430	Cercle Gaulois
+Q6773750	Marshall R. Sanguinet House
+Q5911511	Hotel Galvez
+Q18217281	Seward Plantation
+Q771682	Chicago Federal Building
+Q4832962	Aztec Theatre (San Antonio)
+Q11896303	Tampere Bus Station
+Q3286924	55 Broadway
+Q4993224	Stäket (Lund)
+Q5369554	Embassy of Australia, Washington, D.C.
+Q108325	Chapel
+Q1807425	National Liberal Club
+Q3144635	El Helicoide
+Q4713085	Alcide de Gasperi Building
+Q7126215	Palace of Altamira (Madrid)
+Q848397	Maiden's Tower
+Q24260757	Alfred Horatio Belo House
+Q1369248	Helmántico Stadium
+Q1596758	Galerie des machines
+Q4923408	Blackstone Hotel (Fort Worth, Texas)
+Q7590109	St. Mary's Catholic Church (Fredericksburg, Texas)
+Q3661730	Cabin of Peter the Great
+Q5453730	First Protestant Church
+Q701941	Palais Hoyos
+Q3859261	Socorro Mission
+Q6106481	J. Marvin Jones Federal Building and Mary Lou Robinson United States Courthouse
+Q4360202	Karl May School
+Q5102682	Chișinău Theological Seminary
+Q7609162	Stephen F. Austin Elementary School
+Q7978892	Webster Bank Arena
+Q682173	Villa Pignatelli
+Q16897623	Waterhouse Square
+Q637074	Texas Theatre
+Q12302624	Axelborg
+Q1225005	Heilig-Geist-Spital
+Q5911505	Hotel Fremantle
+Q7247525	Proctor House (Victoria, Texas)
+Q10715575	Villingsberg Manor
+Q18177075	Banco Bilbao Vizcaya (building)
+Q15979386	St Joseph's College, Mark Cross
+Q6465837	La Villita
+Q8021007	Williams Creek School (Gillespie County, Texas)
+Q28225097	Wilhelmsen House
+Q385938	Government Palace, Peru
+Q1710068	Embassy of Syria, Moscow
+Q1714708	Jewel Palace (Berlin)
+Q4633348	2 Marsham Street
+Q1888459	Helsinki Music Centre
+Q4823299	Austin State Hospital
+Q4916799	Birmingham School of Art
+Q14710509	Hotel Blessing
+Q30622539	Royal Mint Court
+Q2109840	Academy of Choral Art named after V. S. Popov
+Q3218640	Launch Control Center
+Q4804860	Asher and Mary Isabelle Richardson House
+Q7127300	Palestine High School (Texas)
+Q12061370	Lord & Burnham Building
+Q28224680	Fremantle Technical School
+Q55601	Presidential Office Building
+Q1822411	Instituut voor Doven
+Q4155891	Palace of Happiness
+Q6107301	J. V. Vandenberge House
+Q7084401	Old Lyford High School
+Q14935211	Medley Hall
+Q1775502	Santa Maria de Lavaix
+Q676576	Ronald Reagan Washington National Airport
+Q46033	Frankfurt Airport
+Q242066	Toronto Pearson International Airport
+Q17581	Sydney Airport
+Q27706	Hamburg Airport
+Q36454	Narita International Airport
+Q210559	Oslo Airport, Gardermoen
+Q15114	Zurich Airport
+Q204853	Haneda Airport
+Q215327	Helsinki Airport
+Q794549	Québec City Jean Lesage International Airport
+Q821275	Indira Gandhi International Airport
+Q8731	Los Angeles International Airport
+Q8721	Glasgow Airport
+Q8694	Manchester Airport
+Q278667	Rajiv Gandhi International Airport
+Q466786	Newark Liberty International Airport
+Q517873	Orio al Serio International Airport
+Q652112	Martin State Airport
+Q671475	Logan International Airport
+Q736627	Montréal–Trudeau International Airport
+Q744748	George Bush Intercontinental Airport
+Q8688	San Francisco International Airport
+Q157741	Cologne Bonn Airport
+Q213717	O'Hare International Airport
+Q401700	Sardar Vallabhbhai Patel International Airport
+Q459096	Dallas/Fort Worth International Airport
+Q503364	Kempegowda International Airport
+Q828386	Linate Airport
+Q926029	Salvador International Airport
+Q8996	Doncaster Sheffield Airport
+Q20932	Incheon International Airport
+Q86446	Ninoy Aquino International Airport
+Q153592	King Abdulaziz International Airport
+Q158732	Stuttgart Airport
+Q178021	Dublin Airport
+Q330015	Denver International Airport
+Q733738	Melbourne Airport
+Q738719	Paris–Le Bourget Airport
+Q8977	East Midlands Airport
+Q17430	Roland Garros Airport
+Q17704	Hong Kong International Airport
+Q29863	Stockholm Bromma Airport
+Q60910	Milan Malpensa Airport
+Q143224	Jyväskylä Airport
+Q265994	Nuremberg Airport
+Q289972	Geneva Airport
+Q465071	Warsaw Chopin Airport
+Q500253	Kuala Lumpur International Airport
+Q505572	Coimbatore International Airport
+Q601091	Wuhan Tianhe International Airport
+Q668382	Leipzig/Halle Airport
+Q694434	Innsbruck Airport
+Q847779	Wilmington International Airport
+Q8975	Newcastle International Airport
+Q8981	Aberdeen Airport
+Q14295	Seattle–Tacoma International Airport
+Q14308	Parafield Airport
+Q32159	Changi Airport
+Q44868	Guangzhou Baiyun International Airport
+Q156971	EuroAirport Basel Mulhouse Freiburg
+Q214861	Hartsfield–Jackson Atlanta International Airport
+Q223499	Stockholm Arlanda Airport
+Q269588	Edmonton International Airport
+Q321224	Vancouver International Airport
+Q483223	Gimhae International Airport
+Q502670	Chennai International Airport
+Q531178	Daniel K. Inouye International Airport
+Q656993	Palma de Mallorca Airport
+Q662434	Helsinki-Malmi Airport
+Q672289	Malta International Airport
+Q673760	Münster Osnabrück International Airport
+Q842297	Shenzhen Bao'an International Airport
+Q853886	McCarran International Airport
+Q868994	Clinton National Airport
+Q903521	Silvio Pettirossi International Airport
+Q909488	Brasília International Airport
+Q8716	Edinburgh Airport
+Q8727	Liverpool John Lennon Airport
+Q8987	George Best Belfast City Airport
+Q9001	Isle of Man Airport
+Q29864	Stockholm Västerås Airport
+Q127958	Thessaloniki Airport
+Q139921	Keflavík International Airport
+Q194316	Suvarnabhumi Airport
+Q211734	Athens International Airport
+Q217226	Tirana International Airport Nënë Tereza
+Q273462	Vnukovo International Airport
+Q381643	Beira Airport
+Q421811	Shanghai Hongqiao International Airport
+Q592172	Cochin International Airport
+Q598197	Bilbao Airport
+Q623452	Houari Boumediene Airport
+Q639161	Cristiano Ronaldo International Airport
+Q642313	Dzaoudzi–Pamandzi International Airport
+Q652505	Detroit Metropolitan Airport
+Q654636	Larnaca International Airport
+Q749497	Soekarno–Hatta International Airport
+Q821984	Tenerife South Airport
+Q860559	Mexico City International Airport
+Q656521	Elizabeth Bay House
+Q6113737	Jack London State Historic Park
+Q782631	Casa de Estudillo
+Q174392	Das Liebesverbot
+Q24993582	Sheffield Student Housing Co-operative
+Q24260757	Alfred Horatio Belo House
+Q8000518	Wild Basin House
+Q5472613	Forthmann House
+Q7799094	Thunderbird Lodge (Lake Tahoe, Nevada)
+Q5148475	Colonsay House
+Q1977867	Ardchattan Priory
+Q60053937	Listening Point
+Q17531200	Stepleton House
+Q28126151	Shadyside (Natchez, Mississippi)
+Q2249182	Insula dell'Ara Coeli
+Q5372143	Emily Dickinson Museum
+Q5668753	Harry F. Sinclair House
+Q14715643	John Quincy Adams Birthplace
+Q1618645	Hill–Stead Museum
+Q6486595	Langtons
+Q9698225	Garcia d'Ávila Tower House
+Q5588906	Government House (Nova Scotia)
+Q5915657	House on Ellicott's Hill
+Q11863267	House at the Two Golden Bears
+Q16824367	Abbot House (Nashua, New Hampshire)
+Q5723038	Henry Hirshfeld House and Cottage
+Q14710468	Goodall Wooten House
+Q18085508	1–2 Orme Square
+Q4769189	Annick Lodge and Greenville
+Q5150789	Combermere House, Nantwich
+Q5302819	Down Hall
+Q6145029	James Walker Log House
+Q8341639	Lua Curtiss House I
+Q5488090	Frank M. and Annie G. Covert House
+Q7962600	Richard Wall house
+Q7270841	Queensberry House
+Q8071911	Ziller House
+Q16901941	Townsend House (Washington, D.C.)
+Q26502441	The Guild, Preston
+Q60750411	Arturo Angel House
+Q65083181	J. Hawkins Hart House
+Q7384982	Rye Particular Baptist Chapel
+Q14711032	McGilbert House
+Q7366383	Roos House (Natchez, Mississippi)
+Q30624663	Oakes-Wood House
+Q65064773	George W. Smith House (Geneva, Nebraska)
+Q5046924	Carson County Square House Museum
+Q5643584	Halsway Manor
+Q5646184	Hampton Court House
+Q7412134	Samuel May Williams House
+Q15262164	Newliston
+Q17828175	Trumland
+Q29641625	Smith-Bontura-Evans House
+Q3329726	LeBer-LeMoyne House
+Q5602796	Green Leaves
+Q11680576	Lua Curtiss House II
+Q14683696	Porter–Vallejo Mansion
+Q1034647	Headley Grange
+Q6177957	Jennie Bramhall House
+Q6226197	John Clark House (Clarksdale, Mississippi)
+Q7618527	Stokes Castle
+Q13404567	Hickory Hill (McLean, Virginia)
+Q1060888	Pueblo Bonito
+Q17052738	Nkandla homestead
+Q51135198	Casa Nobre de Jequitaia
+Q49371259	Villa Teresa, Coswig
+Q4810970	Aston Flamville Manor
+Q5240710	David W. Howie House
+Q15255800	Monteviot House
+Q18156950	Powell House (Fair Bluff, North Carolina)
+Q55639840	H. E. Muchnic House
+Q65118520	Antonio Torres House
+Q4748001	Amoureux House
+Q6918861	Moubray House
+Q7011151	New Register House
+Q17533521	Mansion House, Hurstpierpoint
+Q17533521	Mansion House, Hurstpierpoint
+Q18331491	Harriet F. Rees House
+Q25006801	Abel Jones House
+Q27957871	Bernardin-Johnson House
+Q56282661	Doan's Adobe House
+Q847862	Sunnyside (Tarrytown, New York)
+Q5081532	Charles Patterson House (Natchez, Mississippi)
+Q19880902	Isbell House
+Q60748302	Ivy Cottage
+Q65118242	Peter and Henriette Wyeth Hurd House
+Q7103383	Ormeley Lodge
+Q28125973	Elliott-Donaldson House
+Q30626693	William and Sue Damour House
+Q3073214	Flag House & Star-Spangled Banner Museum
+Q4643824	7 Burlington Gardens
+Q6969514	Nathaniel Bowditch House
+Q7994844	White House (Bastrop, Texas)
+Q15978924	Bull's Head, Strand-on-the-Green
+Q17534504	Ryecroft Hall
+Q24897494	Mill Agent's House
+Q30640674	Franklin R. Lanter House
+Q55284864	La Casa del High Jinks
+Q3178465	Jews' Court, Lincoln
+Q4860955	Barker House (Houston)
